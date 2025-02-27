@@ -1,0 +1,945 @@
+[
+    {
+        "element_id": "c0bb249f2c807ee453a3d06a987b44a6",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Online Child Safety Guidelines, 2076",
+        "type": "Title"
+    },
+    {
+        "element_id": "38c0559264c91779d771d47004892bff",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Preface:",
+        "type": "Title"
+    },
+    {
+        "element_id": "918ad6377b64221859395dff936a22e1",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "38c0559264c91779d771d47004892bff"
+        },
+        "text": "With the development of information and communication technology, it is desirable to reduce the increasing incidents of abuse against children in online media through joint efforts of stakeholders and to formulate and implement the necessary guidelines for the safe use of the Internet for children, and therefore, the Nepal Telecommunication Authority has formulated this guideline in exercise of the powers conferred by Section 13 of the Telecommunications Act, 2053.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Chapter 1",
+        "type": "Title"
+    },
+    {
+        "element_id": "caa2f5919b7b736246adcc4ed7db9021",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "Short title and commencement",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4a13d15a2ae2db502a045cefa0746a7b",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "1. Short title and commencement:-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cb47f947f9ce6cc53441618537f301f2",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "1. The name of this guideline shall be \u201cOnline Child Safety Guidelines, 2076\u201d.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c78a8f3856a07c3e319f04cb84c4b13f",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "2. This guideline shall come into force immediately.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "49502f006c26811009d95a94fe312c4a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "2 Definitions:- In this guideline, unless the subject or context otherwise requires,-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e87b82cd08f6a67a2f52ec0d6bce495c",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(a) Authority means Nepal Telecommunication Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "05cc2f6915a3e7cccc5c5d8a001562d8",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(b) Child means children who have not completed 18 years of age.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7951bf9a579d6f19cea58981afd09557",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(c) Internet Service Provider means an organization and company that distributes Internet and email services to customers. The term also refers to a service provider that provides internet services through mobile services.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9fc5b2e7c18d5b6bb6dc900022ba2b51",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(d) Information center refers to a center established to provide access to information using the internet. Information center refers to a public information center, telecenter, and school computer laboratory.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "891a14b9133ecafb30aa1929d3ad0fc9",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(e) Content refers to any digital content shared through the internet and mobile phones.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "74ee0372f36f54a20d4de26efa68e87f",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(f) Online platform refers to websites, mobile apps, and social media.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3c189c44b5fc98af9007e65485dcda55",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "(g) Service provider refers to internet, mobile, information center, and all types of online platform service providers.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a83310b1019acf7af38b9ac81bbfcd97",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "Chapter 2 What the service provider must do",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a7ea952df41c9683ffb985f5b91d2ef0",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "3. The objective of the internet service provider shall be to minimize the availability of illegal and harmful content on the online platform for the safety of children and to limit access to such content.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8dd0a6dd0531b313268c67dbe79d8493",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "4. It shall be the responsibility of the Internet service provider to provide children and their parents with the necessary information and technology to protect them from the potential risks of the Internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "73e4ebcbbb15e4b488cba0a72f220d8c",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "5. Any Internet, online platform or social media service provider shall have clear, accessible and inclusive terms of use, privacy policy, safe use practices and complaint systems for the service.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b729ffb68fd97a1c33fed9f7184a2024",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "6. It shall be the duty of the Internet service provider to formulate and implement procedures for addressing complaints regarding child abuse content.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "26e9c7ecfe944702971dd7a9d2e8bfee",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "7. A system shall be established to investigate abuse and inappropriate content as soon as possible. A system shall be developed to remove child abuse content immediately (Take Down) as much as possible.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ae7c33550e98ade6b4f642cf7aee1f32",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "8. The service provider shall develop a structure for reporting material or links that endanger or abuse children and adolescents. While developing this structure, it shall be developed in such a way that serious incidents are reported to the police or law enforcement agencies.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "313bb490b7080c9e43bd721caa42df56",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "9. The content or service available on the Internet through the service provider shall be age-sensitive and, if inappropriate for all age groups, shall be classified to the extent possible in accordance with prevailing laws so that access can be made by age-specific means.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "558122932cebcf87cf9f72230713daf6",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "10. While disseminating age-sensitive content, service providers shall cooperate as much as possible and shall be committed to disseminating it in accordance with local sensitivity and prevailing laws.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "db88d0baa5b189f4b44b99e548732031",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "11. The service provider shall provide tools that allow access to online content under the control of the user, parent or guardian.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2af32a0adea671b241fc86eb0d88a585",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "12. The service provider shall clearly indicate the age group in the services and content provided by the service provider.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "158265c186564bf5b60a92c8bf42e738",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "13. It shall be the duty of the service provider to inform the parents about the content or service in use and to assist them in providing access to only appropriate content to their children.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "64a8f5439951d9c049de8b39dff990ba",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "14. It shall be the duty of the service provider to conduct awareness programs for users regarding the proper use of Internet services.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "480aa103ad2a055a10063baadf57a9d3",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "5ebe70c6c969ed1aaa4f5045fc0ee95c"
+        },
+        "text": "15. The service provider shall state a clear policy against child abuse material in the terms and conditions of use of its service. In addition, in case of misuse of the service contrary to the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "18624c6ae6a07f1d784790db1ca3bf1d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "prevailing law, it shall be committed to cooperate with the law enforcement agencies to support action in accordance with the prevailing law and to remove sensitive material from the Internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a0543d92b86bddc577f2853eb91b0b9a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "16. It shall be the responsibility of the Internet service provider to take necessary action to reduce online child abuse by using the complaint management system based on the prescribed standards and rules.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f8d4a64d276baef51b3238ebf9e51f94",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "17. It shall be the responsibility of the broadcaster to develop and implement basic standards for the safety of children online.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2694aff17b7c22ea3f684fb7758287f5",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "16. It shall be the responsibility of the broadcaster to formulate and implement procedures for obtaining parental consent in the process of establishing access to age-sensitive material by children.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "680f5e987824d73567b2a0cdfc3e748d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "Chapter 3. Tasks to be carried out by the household and society",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9ef8eb2f110b43936b258dabb71be715",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "19. Safe use of computers:-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b78b0ef5e24aee5bf0c96a448fcf0d3c",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "(a) The primary responsibility for the safe use of computers used by children to use the Internet shall lie with the owner of the computer.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e30e6baf2cbfb35a95a3dd4e8438e4c5",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "(b) It shall be the duty of the computer owner to install security measures (such as anti-virus, firewall, etc.) on the computer where children use the Internet and to update them regularly/periodically.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "910e07c1499681112f19a67a07750fda",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "(c) The computer where children use the Internet should be located in a common area of the house and It shall be the responsibility of the concerned parent to limit the environment in which children use risky materials on the Internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "945783b775a2d6bc67ae5656472d75a6",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "(d) It shall be the duty of the concerned parent to install software such as a parental control system on the computer used by their children to regulate it.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ff5fa84debc51008883672f07c89716a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "20. Orientation on safe use of computers should be provided:-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b04552a500ec15b409ac8960bb22bb1d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "(a) It shall be the duty of the concerned parent to make rules for their children regarding Internet use and accustom their children to comply with them.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8216ca8cefa1d734755495b2b79e1c2d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "While making such rules, priority should be given to the following matters.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ce60e17f5458087222a25c3fbd759fc6",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "1) Time and duration of access to the Internet,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2cc85d4a5823854922b11af010b8e71a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "2) Classification of materials that can be accessed on the Internet,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "78de1379bb50c35566df197c6830c8cc",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "3) Classification of materials that can or cannot be downloaded",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fb2d418adb918c07a89cb972874b3267",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "4) What to do in case of accidental access to risky materials (jamkavet),",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8405d2d4c047557b6eb40279030497db",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "5) Identification and use of materials that indicate the age group,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5baf90d994df7ec12388e64706c4f625",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(b) It shall be the duty of the concerned parent to regularly supervise the use of the Internet by their children.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2b01f7fb672f585c326e233dd1ea6701",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(c) It shall be the duty of the concerned parent to provide necessary orientation to their children regarding the safe use of the Internet and the proper use of security tools.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cdb8e0a34760139f88aa29d8b30b30b1",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(d) It shall be the duty of the concerned parent to talk openly with their children about potential risks and to create an environment in which the child can inform the parent about the problems in this regard.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a47f633714e032ee7c9fc3ac10e45baa",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(e) It shall be the duty of the concerned parent to log in while using websites and apps and to manage access by considering the sensitivity of the age group.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "96a4dac91411408aeb7adeda15ce5b6b",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(f) It shall be the duty of the concerned parent to take necessary initiatives to limit risky advertisements and messages that incite and incite children.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ad4a61be405ae6aa1b20fd3f149e7f7e",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "21. Keeping information about websites and apps used by children:-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6f80383402efe38e467bc62ea9804691",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(a) It shall be the duty of the concerned parent to list the websites and apps that their children regularly use and to get information about the privacy policies and terms and conditions of use of such websites and apps. Attention should also be paid to whether such websites and apps are monitoring the child's internet use or not.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a96c6e2593023c47e1051ea828e3d067",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(b) It shall be the duty of the concerned parent to inform their children whether the websites and apps they use have collected their personal information or not and to warn them not to provide such details.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "698b932496958cacfeec7cfaf36c0f8d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(c) It shall be the duty of the concerned parent to constantly monitor the use of personal devices such as mobiles and tabs by their children.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1fd034ecb524f64b9830a1656a61d038",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "22. Safe use of the Internet on school computers:-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "040aac9fbda8f2aa231e6111dfef377a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(1) The school shall be primarily responsible for the safe use of computers used by children in schools.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3b7b30d65e8188ab4cf8ca05ae228e30",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "(2) It shall be the duty of the school to install security measures (such as anti-virus, firewall) on computers used by children on the Internet and to update them regularly/periodically.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3490d50b28c64999723a9ccd639e8bf2",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(3) It shall be the duty of the concerned school to limit the environment in which children use risky materials on computers used by children on the Internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "854dad5f34de1e48810a96275251326d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(4) It shall be the duty of the school to install and regularly monitor software such as a system to restrict access to adult content on computers used by children on the Internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b1fe6720a4bad8844f9fc6c905042491",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "23. Responsibility of Stakeholders:",
+        "type": "Title"
+    },
+    {
+        "element_id": "a3edd050d5ca8346f6406aee0c99d5b0",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b1fe6720a4bad8844f9fc6c905042491"
+        },
+        "text": "(1) It shall be the responsibility of non-governmental organizations to develop the necessary awareness and safety system in collaboration with various stakeholders to protect children from the potential risks of online platforms.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1802e18ee0781fbe8a1a102c1d92de1d",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "b1fe6720a4bad8844f9fc6c905042491"
+        },
+        "text": "(2) It shall be the duty of the stakeholders to take necessary action to rehabilitate the victims of child abuse using online platforms.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4becd3e23b38159d5646aa4a5336341a",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "Chapter 4 Work to be done by Nepal Telecommunication Authority",
+        "type": "Title"
+    },
+    {
+        "element_id": "763fe8de04eb6b5b43cbcd34c544da8e",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "4becd3e23b38159d5646aa4a5336341a"
+        },
+        "text": "24. Coordination by the Authority:- The Authority shall play a coordinating role with law enforcement agencies, service providers and other stakeholders to control online child abuse incidents.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "361756a9183b2c5a38b5a36eb3599916",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "4becd3e23b38159d5646aa4a5336341a"
+        },
+        "text": "26. Establishment of Online Child Abuse Incident Complaint System:- The Authority shall develop and operationalize an Online Child Abuse Complaints System with the participation of law enforcement agencies, service providers and other stakeholders.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "34d278f28dad422336fcbbb1436790a2",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "4becd3e23b38159d5646aa4a5336341a"
+        },
+        "text": "27. To cooperate: - It shall be the duty of the stakeholders to cooperate with the law enforcement agencies regarding online child protection within the scope of the prevailing laws.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "56f6ede317845e86d9cd03ab73539e00",
+        "metadata": {
+            "filename": "Online Child Safety Guidelines, 2076.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "4becd3e23b38159d5646aa4a5336341a"
+        },
+        "text": "28. To comply: - It shall be the duty of the concerned service provider to comply with the directives issued by the Authority from time to time for the implementation of this guideline.",
+        "type": "NarrativeText"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "section_title": "NEPAL TELECOMMUNICATIONS AUTHORITY",
+        "content": []
+    },
+    {
+        "section_title": "Kathmandu, Nepal",
+        "content": [
+            "MOBILE DEVICE MANAGEMENT SYSTEM BYLAWS, 2075 (2018)"
+        ]
+    },
+    {
+        "section_title": "Mobile Device Management System Bylaws, 2075 (2018)",
+        "content": [
+            "In exercise of the powers conferred by Section 62 of the Telecommunication Act, 2053 (1997) Nepal Telecommunications Authority (NTA) has framed these Bylaws for the implementation of Equipment Identity Register (EIR) system to ensure national and consumer security, to identify the genuine mobile handsets and make the fake and non-genuine handsets inoperable in Nepal, to enable tracking/blocking of mobile handset that is lost/stolen, to encourage import and sell of genuine mobile handsets and to eradicate grey market."
+        ]
+    },
+    {
+        "section_title": "Chapter- 1 Preliminary",
+        "content": [
+            "1. Short title and commencement: (1) These Bylaws is called as the \"Mobile Device Management System Bylaws, 2075 (2018)\".",
+            "Management System Bylaws, 2075 (2018)\".",
+            "(2) These Bylaws shall come into force immediately.",
+            "2. Definitions: Unless the subject or context otherwise requires, in these Bylaws,-",
+            "(a) \"Act\" means the Telecommunication Act, 2053 (1996).",
+            "(b) \"Authority\" means Nepal Telecommunications Authority established under Telecommunication Act, 2053 (1997). the",
+            "(c) \u201cAuthorized Distributer\u201d means an entity authorized by the manufacturer/ Brand owner for distribution and sale of mobile devices in Nepal and holding a valid Type Approval certificate issued by the Authority under the Type Approval Working Procedure.",
+            "(d) \u201cBlack List \u201cmeans a list of IMEIs/ESNs/MEIDs that are associated with mobile devices that have been denied service on mobile networks because they have been reported as lost or stolen, have an invalid IMEI/ESN/MEID number(s) or are not registered for use in Nepal by the Authority.",
+            "(e) \u201cBlocking Intimation\u201d means a message to alert subscribers that their mobile devices will be blocked along with a reason for blocking.",
+            "(f) \u201cCompliant Mobile Device\u201d is a device meeting the following criteria; having valid IMEI/ESN/MEID number; not in the stolen/lost list; Type Approved by the Authority;",
+            "and registered in the Mobile Device Management System (MDMS) and imported into Nepal.",
+            "(g) \u201cDevice Blocking\u201d means denial of service to a mobile device by an MNO.",
+            "(h) \u201cDevice Import Interface\u201d means a web interface to Authorized Distributers/OEMs/Individuals for registration of IMEI/ESN/MEID number of devices for commercial import/personal use.",
+            "(i) \u201cEIR\u201d means Equipment Identity Register which is a database that contains a record of the all IMEI/ESN/MEID numbers of mobile stations (MS) that are allowed in a network as well as database of all IMEI/ESN/MEID numbers of equipment that are banned in the network, e.g. because it is lost or stolen.",
+            "(j) \u201cESN\u201d means Electronic Serial Number which is uniquely identifies equipment and is embedded electronically by the manufacturer.",
+            "(k) \u201cGoN\u201d means Government of Nepal.",
+            "(l) \"IMEI\" means an International Mobile Equipment Identity allocated by the GSM Association. It is a unique 15-digit decimal number required to identify a mobile device on mobile networks.",
+            "(m) \"Illegal Mobile Devices\" the mobile devices either having non-genuine/Fake/Null IMEI/MEID/ESN or imported through illegal means, or reported as lost/stolen and decided as illegal by the Authority",
+            "(n) \u201cMEID\u201d means Mobile Equipment Identifier; similar to an ESN; is a globally unique number for a piece of mobile equipment.",
+            "(o) \u201cMobile Device\u201d is a device identified by an IMEI/ESN/MEID numbers.",
+            "(p) \"MDMS\" is Mobile Device Management System installed for registration of the IMEI/ESN/MEID numbers of mobile devices that may be used for tracing and/or blocking of non-compliant mobile devices.",
+            "(q) \u201cMDMS Service Provider\u201d or \u201cMDMSSP\u201d means third party entity authorized by NTA for design, develop, supply, installation, commissioning and operation of the MDMS on behalf of NTA.",
+            "(r) \u201cMNO\u201d means Mobile Network Operator licensed by NTA to operate mobile service.",
+            "(s) \u201cNotification List\u201d means a list of mobile devices with certain authentication issues such as having a valid IMEI/ESN/MEID number but not of a device model Type Approved by the Authority or not being registered for importation with the Authority.",
+            "(t) \u201cOEM\u201d means an Original Equipment Manufacturer (OEM) which is a company that produces parts and equipment that may be marketed by another manufacturer.",
+            "(u) \u201cRegistration\u201d means submission of IMEI/ESN/MEID number of mobile devices by importers or individual to the MDMS.",
+            "(v) \u201cRUIM\u201d means Removable User Identity Module is a card developed for CDMA.",
+            "(w) \u201cSecure File Interface\u201d means the secure interface for transfer of data between a mobile network and the MDMS.",
+            "(x) \u201cSIM\u201d means Subscriber Identity Module is a card developed for GSM.",
+            "(y) \u201cSubscriber/Consumer\u201d means any natural person who enters into a contract with an MNO for acquiring mobile communication service.",
+            "(z) \u201cVerification Interface\u201d is an interface (web and SMS) and application for stakeholders to verify the status of mobile devices."
+        ]
+    },
+    {
+        "section_title": "Chapter - 2",
+        "content": []
+    },
+    {
+        "section_title": "Provisions Related to Mobile Communication Service and Device",
+        "content": [
+            "3. Provision of Mobile Communication Services: (1) Mobile Communication Service shall be activated by MNO(s) only to compliant mobile devices.",
+            "(2) All Type Approval Certificate holders/ mobile device importers shall ensure that non- compliant mobile devices shall not be imported, sold, marketed.",
+            "(3) Illegal mobile devices shall be blocked by MNO(s) from use in Nepal as instructed from MDMS.",
+            "(4) Sub-Bylaw (3) of Bylaw (3) will come into effect after 6 months from the date of commencement of operation of MDMS.",
+            "(5) Not withstanding anything contained in Sub-bylaw (4) of Bylaw 3, the Mobile devices detected in illegal SIMBOX operation as call bypass shall be blocked as soon as the MDMS instructs to the MNOs.",
+            "4. Establishment of MDMS: (1) The Authority shall establish an MDMS by authorizing to an MDMSSP.",
+            "(2) The Authority will authorize to operate and maintain the MDMS system to the third party for five (5) years duration. The Authority shall prescribe Standard Operating Procedures for MDMS\u2019s implementation on technical, management and operational matters.",
+            "(3) The MDMS shall be installed with the necessary hardware and software to implement MDMS service. The service will enable the registration of mobile devices, verification of IMEIs/ESNs/MEIDs and identification of non-compliant mobile devices.",
+            "(4) The MDMS shall collect the data of cloned/fake/null IMEIs/ESNs/MEIDs of mobile handsets that are already in use and submit the report to the Authority and also notify the concerned mobile user through SMS and IVR for awareness/warning notifying the status of the unique ID of mobile handset. The MDMS shall have intelligence to segregate cloned/fake IMEI based upon the data provided by MNOs through interface with Operator EIR Solution.",
+            "(5) The MDMS shall make provisions to make the mobile devices operable even when those devices are having cloned/fake/null IMEIs/ESNs/MEIDs and imported/used into Nepal prior to the commencement of operation of MDMS..",
+            "(6) Notwithstanding anything contained in sub-bylaw (5) of Bylaw (4), the Authority may instruct the MDMSSP to block such devices.",
+            "5. Application to be made for MDMS Service Provider Authorization:1 (1) The provisions of the Public Procurement Act of Nepal and Procurement Bylaw of NTA will be applicable to procure the MDMS Service.",
+            "(2) The Authority shall publish a notice for Expression of Interest (EOI) in English language in a national daily newspaper, specifying a period of at least 15 days inviting applications from the eligible persons desiring to obtain authorization to provide service for Design, Develop, Supply, Installation, Testing, Commissioning and Operation of MDMS service.",
+            "1 Amendment as per NTA D.N.3816, Dated 2075/2/18",
+            "(3) The Authority shall shortlist three to six applicants in general by evaluating the EOI received from the applicants based upon the EOI notice published pursuant to sub-bylaw (2) of this bylaw.",
+            "(4) The Authority shall ask Request for Proposal (RFP) from the shortlisted applicants specifying the period of at least 30 days for submission of proposal to the Authority.",
+            "(5) Qualifying criteria, grounds for disqualification and evaluation criteria shall be as prescribed by the Authority in the RFP.",
+            "(6) The eligible and qualified applicant acquiring the highest score based on the Quality and Cost Based Selection Method will be declared as the Successful Applicant.",
+            "(7) LOI will be issued to the Successful Applicant to provide service for Design, Develop, Supply, Installation, Testing, Commissioning and Operation of MDMS.",
+            "6. Eligibility Requirements: (1) The applicant shall have a minimum average annual turnover of at least Nepali Rupees 1,00,00,00,000.00 for the last three fiscal years .",
+            "(2) The applicant shall have positive net worth for the last three fiscal years.",
+            "(3) The applicant shall have experience of having design, develop, supply, installation, testing and commissioning of EIR solution in at least 2 Countries.",
+            "(4) The Applicant shall be nonblack listed by the concerned Authority of the respective country.",
+            "7. Authorization to be granted: (1) The Successful Applicant pursuant to sub-bylaw (1) of bylaw (5) to whom the Letter of Intent (LOI) is issued from NTA, must accept the LOI in writing within 15 (fifteen) days from the date of issuance of the LOI.",
+            "(2) The Successful Applicant/s to whom the LOI has been issued shall furnish a Performance Guarantee as prescribed by the Authority. Then the Authority shall grant the authorization as MDMSSP to the Successful Applicant.",
+            "8. Period of authorization: (1) The period of authorization of MDMSSP pursuant to sub- bylaw (2) of bylaw (7) shall be of maximum of five years.",
+            "(2) The Authority has the right to cancel the Authorization of the MDMSSP in any time if its performance found unsatisfactory.",
+            "(3) The Authority may extend the operation period beyond 5 years upon the mutual agreement between the Authority and the MDMSSP.",
+            "9. Obligations of MDMSSP: (1) MDMSSP shall register, identify and verify the new IMEI/ESN/MEID provided from importers and individuals.",
+            "(2) MDMSSP shall receive application to track/block the IMEI/ESN/MEID of lost/stolen mobile devices.",
+            "(3) MDMSSP shall provide the verified list of IMEI/ESN/MEID to the custom office for custom clearance purpose",
+            "(4) MDMSSP shall provide the access to the MDMS system to the MNOs for implementation of EIR function.",
+            "(5) MDMSSP shall segregate cloned/fake IMEI from the data provided by MNOs",
+            "(6) The MDMSSP shall also have secure connectivity with operators\u2019 SMS gateways using industry standard protocol and interface like SMPP.",
+            "(7) The MDMSSP shall maintain the business confidentiality of the MNOs as applicable.",
+            "10. Terms and conditions to be abided by MDMSSP: The MDMSSP shall abide by the following terms and conditions:",
+            "(1) To design, develop, supply, install, commence, operate MDMS and maintain standard as specified by the Authority.",
+            "(2) To repair and maintain it free of cost in conformity with the standards prescribed by the Authority if the MDMS is out of order due to any reason,.",
+            "(3) To provide the inter-operable interface to MNOs, Type Approval Certificate holders/ Mobile Device Importers and individuals, Customs, Security Agency etc.",
+            "(4) To operate the MDMS in conformity with the minimum International Standards prescribed by the 3GPP/ITU-T.",
+            "(5) To ensure that service provided by the MDMSSP to MNO, MDMSSP Type Approval Certificate holders/ Mobile Device Importers, individuals, MDMSSP Customs, MDMSSP and Security Agency as prescribed by the Authority.",
+            "(6) To abide by other terms and conditions as prescribed by the Authority in relation to the operation of MDMS.",
+            "11. Charges of Registration/Management: (1) One time registration fees for each mobile device imported into Nepal either by the Authorized importers or by individuals brought for personal use may be applicable as prescribed by the Authority.",
+            "(2) The Authority may authorize the MDMSSP to provide any value added services for benefit of the people.",
+            "12. Registration of Mobile Devices: (1) A Device Verification Interface will be provided by MDMSSP to verify whether a device is a compliant mobile device.",
+            "(2) Authorized distributors and OEMs who are Type Approval certificate holders will be required to register online the IMEI/ESN/MEID numbers of mobile devices to MDMS prior to import.",
+            "(3) An application has to be submitted to the MDMSSP in the format specified in Schedule-1 for registration pursuant to sub-bylaw (2) of bylaw (9).",
+            "(4) Individuals importing a device for personal use complying the custom regulation will be required to register online the IMEI/ESN/MEID numbers of the device to MDMS with the application in the format as specified in Schedule-2.",
+            "(5) Un-registered mobile device brought by individual for non-commercial/personal usage through SIM/RUIM cards of Nepali MNOs will be notified to register as per sub-bylaw (4) of bylaw (9) with notification of denial of service by MNOs after 15 days from first detection on a Nepali mobile network as per instruction from MDMS.",
+            "(6) The MDMSSP shall be responsible to register, verify, facilitate for the import of the mobile device either through web based online system or any other methods as specified by the Authority.",
+            "13. Blocking/Un-Blocking of Devices: (1) The MDMS shall generate a black list which the MNOs will use to block mobile devices and a notification list which will be used by MNOs for",
+            "intimation to subscribers as required. For this purpose MDMS shall send notification SMS to respective user(s) using MNO\u2019s standard like SMPP or MAP signaling or other SMS interfaces.",
+            "(2) The lists as of sub-bylaw (1) of this bylaw (10) will be generated and provided to MNOs on a daily basis.",
+            "(3) If mobile device is lost or stolen, the concerned person/owner has to apply an online application in the format as specified in Schedule-3 to track/block that mobile handset use with any SIM/RUIM card as applicable.",
+            "(4) Tracking and blocking of IMEIs/ESNs/MEIDs of lost or stolen mobile handsets shall be carried out by the MDMSSP as per the procedure prescribed by the Authority.",
+            "14. Roamers: (1) Generally these Bylaws shall not apply to the mobile devices of subscribers to non-Nepali mobile network operators while roaming in Nepal.",
+            "(2) Whatsoever stated in sub-bylaw (1) of this bylaw (11), if the Mobile Device used by a roamer is suspected as threat to national security or used in criminal activity , the MDMS can be used to track/block the device in special circumstance."
+        ]
+    },
+    {
+        "section_title": "Chapter - 3 Provisions Related to Establishing the MDMS",
+        "content": [
+            "15. Functions of MDMS: (1) MDMS shall have the capability to maintain the database of the IMEIs/ESNs/MEIDs of all the devices registered on the mobile networks.",
+            "(2) MDMS shall be able to identify IMEIs/ESNs/MEIDs;",
+            "a. which are not in the global database",
+            "b. which are illegal to import/use in Nepal",
+            "b. which are null, duplicate or all zero",
+            "(3) Under the MDMS, EIR shall contain the following information of the devices that are registered with all MNOs.",
+            "a. IMEIs/ESNs/MEIDs/IMEISVs",
+            "b. IMEIs/ESNs/MEIDs/IMEISVs status (white, grey, black)",
+            "c. Date of record creation",
+            "d. Date of last record update",
+            "e. IMEIs/ESNs/MEIDs/IMEISVs status reason (Invalid, stolen, valid)",
+            "f. Form, in the format as referred to in Schedule-4",
+            "g. List of IMSI/MSISDN being used on the IMEI if possible.",
+            "(4) MDMS shall identify the device model, version, supported frequency and other information required by Authority.",
+            "(5) MDMS shall have facility to access global IMEI/ESN/MEID database",
+            "(6) MDMS shall be interoperable with all the appropriate network elements and interfaces of mobile operators via Telecom Standard interface and protocols.",
+            "(7) MDMS shall perform a check on the IMEI/ESN/MEID/IMEISV format to verify if it is of a valid format and range.",
+            "(8) Registration of Mobile Devices related to the import either by business purpose or individual purpose",
+            "(9) If any importer requests MDMSSP for registering the IMEI/ESN/MEID/IMEISV numbers of mobile handsets to be imported, the third party must recognize as the rightful Authority to provide No objection letter to concerned Custom Office for custom clearance purpose and provide the registered IMEI/ESN/MEID/IMEISV numbers to the Operators for implementation of EIR as applicable.",
+            "(10) Web-based/mobile app based online automation mechanism shall be developed and used for Registration of unique identifiers applicable to importers. Similarly the web-based/ mobile app based interface shall be provided to customs, security Agency, the Authority, MNOs as applicable.",
+            "(11) MDMS shall be scalable to meet the present and future requirements."
+        ]
+    },
+    {
+        "section_title": "Chapter - 4",
+        "content": []
+    },
+    {
+        "section_title": "Provisions Related to Rights and Obligations",
+        "content": [
+            "16. Obligations of MNOs: (1) All MNOs shall ensure implementation of an EIR or any other related system in their networks as specified by the Authority.",
+            "(2) MNOs shall ensure that their system is capable of facilitating the implementation and smooth functioning of the MDMS.",
+            "(3) If directed by the Authority MNOs shall upgrade their EIR system at their own cost in order to support the functioning of the MDMS.",
+            "(4) All MNOs shall setup, operate and maintain a Secure File Interface to the MDMS as well as provide secure connectivity between MDMS SMS gateway and their SMSC at their own cost as specified by the Authority.",
+            "(5) MNOs shall disseminate the awareness/ warning message to the user free of cost as specified by the Authority in coordination with the MDMSSP.",
+            "(6) Block the SIM/RUIM reported as that used in the lost /stolen mobile device by the subscriber and instructed by the MDMSSP\u2019s MDMS.",
+            "17. Obligations of Importers of Mobile Devices: (1) All Type Approval Certificate holders/ Mobile Device Importers shall register accurate information of Mobile devices to maintain the list of IMEI/ESN/MEID/IMEISV numbers of devices in the MDMS.",
+            "(2) All Type Approval Certificate holders/ Mobile Device Importers shall not in any way import/allow/sell any unauthorized phone/device. They shall import and sell only the mobile handsets type approved by the NTA.",
+            "(3) All Type Approval Certificate holders/ Mobile Device Importers shall take their required responsibilities regarding MDMS and any other provisions regarding these Bylaws.",
+            "(4) All Type Approval Certificate holders/ Mobile Device Importers shall submit the IMEIs/ESNs/MEIDs of mobile handset to MDMS as mentioned in sub-bylaw (2) of bylaw (9).",
+            "(5) Those mobile handsets already in market (stock of importer/distributor) and not registered in the Authority/MDMSSP and not latched in MNOs\u2019 network shall be registered in the MDMS within the timeline specified by the Authority by the concerned importer(s) or distributor(s)/ individuals.",
+            "18. Obligations of Customs Offices: (1) Custom Office shall release only those mobile devices which are already type approved by NTA and ensure that IMEI/ESN/MEID numbers of imported mobile devices are registered in MDMS and verified by accessing the MDMS.",
+            "(2) Custom Offices shall assist and coordinate with the NTA to ensure the import of genuine/authentic mobile devices.",
+            "19. Subscriber Rights: Subscribers may report their lost or stolen mobile devices to the MDMSSP in order to track or block the device."
+        ]
+    },
+    {
+        "section_title": "Chapter- 5 Relationship among Stakeholders",
+        "content": [
+            "20. MNOs & Subscribers: (1) MNOs will make sure that they send intimation to all those subscribers who are using non-compliant mobile devices as triggered by MDMS.",
+            "(2) Subscribers may contact the concerned MNO for guidance.",
+            "(3) MNOs shall train their customer support staff to handle MDMS related queries received from subscribers.",
+            "21. Non Disclosure Agreement between MNOs and MDMSSP: Non-Disclosure Agreement shall be signed between MNOs and MDMSSP."
+        ]
+    },
+    {
+        "section_title": "21. Non Disclosure Agreement between MNOs and MDMSSP: Non-Disclosure",
+        "content": [
+            "Agreement shall be signed between MNOs and MDMSSP.",
+            "22. Authorized Distributers/ Mobile Device Importers/OEMs & Authority: Authorized Distributers/ Mobile Device Importers/OEMs shall ensure that their devices are Type Approved by the Authority according to the Type Approval Working Procedure.",
+            "Authorized Distributers/ Mobile Device Importers/OEMs shall ensure that their devices are Type Approved by the Authority according to the Type Approval Working Procedure.",
+            "23. Public Education & Awareness Campaigns: (1) All MNOs shall carry out extensive media campaigns at their own cost to educate consumers of the MDMS; the requirements for mobile devices to be Type Approved and registered on the MDMS and tools for checking the status of mobile devices.",
+            "(2) MNOs shall train their Customer Service and Call Center staff to guide customers on MDMS.",
+            "(3) The Authority shall organize country-wide awareness campaigns in the print and electronic media.",
+            "(4) MNOs shall train their customer service representatives and provide brochures for consumers instructing them on how to check the authenticity of a mobile device by means of field verification interface.",
+            "24. Monitoring and Inspection: NTA shall be responsible to ensure the compliance of these Bylaws through regular monitoring and inspection. .",
+            "25. Complaints System: (1) MNOs, Authorized Dealers and Type Approval Certificate Holders shall establish an efficient mechanism to promptly receive, process and respond to complaints by subscribers regarding their devices.",
+            "(2) NTA may assign a special short code for complaint handling and any other activities associated with MDMS.",
+            "(3) It shall be the duty of all the stakeholders to address the consumer complaints.",
+            "26. Privacy of data: (1) All the concerned partied involved (Authority, MNOs, Importer, Distributer and all who are concerned and connected with MDMS) shall not disclose the contents of any data being transmitted or received from the MDMS. It must remain under their control except to the extent permitted by the Authority in writing or through any instruction/directive.",
+            "(2) MNOs shall take all reasonable measures to safeguard the databases from unauthorized interception or unauthorized access.",
+            "(3) Authority and MDMSSP shall take all reasonable measures to safeguard the databases from unauthorized interception or unauthorized access to MDMS database and user information. No business related confidential information shall be shared to MNOs.",
+            "27. Directions of the Authority: All directives, notifications, standard operating procedures and orders issued by the Authority from time to time shall be binding and applicable to the MNOs, MDMSSP, importers and individuals.",
+            "28. Confidentiality of Information: (1) Without prejudice to the provisions of any law for the time being in force, Authority/all MNOs/MDMSSP shall ensure the confidentiality of all information disclosed by Consumers under the provisions of this Bylaws.",
+            "(2) Violation of non-disclosure agreement shall be punished to the maximum extent as decided by the Authority.",
+            "29. Power to Settle Dispute: (1) The Authority shall have the power to settle disputes between the MDMSSP and MNO or the MDMSSP and importer/individual relating to the service provided by the MDMSSP.",
+            "(2) The method and procedure of the settlement of disputes pursuant to sub-bylaw (1) shall be as prescribed by the Authority."
+        ]
+    },
+    {
+        "section_title": "Chapter -6 Miscellaneous",
+        "content": [
+            "30. Maintenance of Up-to-date Records: The MDMSSP shall on behalf of Authority prepare and maintain records of all transactions on the MDMS service in an up to date manner and shall present the said records to the Authority as and when required in the course of inspection or inquiry.",
+            "31. Power to Remove Difficulties: If any difficulty arises in the implementation of this bylaw, the Authority may take necessary decision to remove such difficulties.",
+            "32. Repeal: The Interim Directives for the Implementation of National Equipment Identity Registry (NEIR)-2072 is repealed effective from the date of establishment and commencement of MDMSSP pursuant to this bylaw."
+        ]
+    },
+    {
+        "section_title": "Schedule-1: Format of Application (Importer) (Relating to Sub-bylaw (3) of the Bylaw 12)",
+        "content": [
+            "To,",
+            "The MDMS Service Provider",
+            "Kathmandu, Nepal."
+        ]
+    },
+    {
+        "section_title": "Subject:- Registration of IMEI/ESN/MEID Nos Mobile Device",
+        "content": [
+            "I/we have attached the details of Unique Identifiers/IMEI of mobile handset of Brand [Brand Name], Model No. [Model No.] in the format given below in softcopy form. I/We would like to request you to register those Unique Identifiers/IMEI numbers in MDMS and also recommend to [Name and Address of Custom Office] to release the mobile handsets and also provide the information to all MNOs in Nepal to make the Mobile Devices Operable.",
+            "I/We hereby declare& Commit to abide the terms and conditions set by the Authority for Registration & Management of the aforementioned Mobile Devices. [I/We] hereby would like to declare that the information and documents submitted by [me/us] in this application form are true and correct .",
+            "Thank you.",
+            "Regards,",
+            "Schedule-2: Format of Application to Register (Individual)"
+        ]
+    },
+    {
+        "section_title": "(Relating to Sub-bylaw (4) of the Bylaw 12)",
+        "content": [
+            "To,",
+            "The MDMS Service Provider",
+            "Kathmandu, Nepal."
+        ]
+    },
+    {
+        "section_title": "Subject:-About Registration of IMEI/ESN/IMEI Mobile Handset",
+        "content": [
+            "I/we would like to request to register the IMEI/ESN/MEID number(s) of mobile handset having the following details.",
+            "1) Details of Mobile Handset:"
+        ]
+    },
+    {
+        "section_title": "Brand Name:",
+        "content": []
+    },
+    {
+        "section_title": "Model No:",
+        "content": [
+            "IMEI/ESN/MEID:"
+        ]
+    },
+    {
+        "section_title": "Citizenship No. or Other ID Card No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+        "content": []
+    },
+    {
+        "section_title": "Tel. No:",
+        "content": [
+            "3) Country of Import:",
+            "4) Declaration & Commitment:",
+            "a. Upon Registration in MDMS, [I/ we] fully commit to abide by the Terms and Conditions set by the MDMSSP/Authority.",
+            "b. [I/we] hereby declare that the information and documents submitted by [me/us] in this application form are true and correct.",
+            "Name of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Signature of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Date: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+            "Schedule-3: Format of Application to request to track/block the mobile device"
+        ]
+    },
+    {
+        "section_title": "(Relating to Sub-bylaw (3) of the Bylaw 13)",
+        "content": [
+            "To,",
+            "The MDMS Service Provider",
+            "Kathmandu, Nepal"
+        ]
+    },
+    {
+        "section_title": "Subject:-About stolen/stolen Mobile Handset",
+        "content": [
+            "In connection to the subject, I/we have lost the mobile handset having the following details. I would like to request to track/block this mobile handset from all the Mobile operators of Nepal."
+        ]
+    },
+    {
+        "section_title": "a. Details of Mobile Handset:",
+        "content": [
+            "IMEI/ESN/MEID: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Mobile Phone No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Name of Applicant:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Citizenship No. or Other ID Card No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Address of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Contact No. of Applicant: ..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Email ID of Applicant: ...\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+            "b. I/We have attached the following document with this application.",
+            "1. Copy of Citizenship or Other ID Card.",
+            "2. Copy of Invoice of mobile handset"
+        ]
+    },
+    {
+        "section_title": "c. Declaration/Commitment",
+        "content": [
+            "[I/ we] fully commit to abide by the actions taken by the MDMSSP as prescribed by the Authority.",
+            "[I/we] hereby declare that the information and documents submitted by [me/us] in this application form are true and correct."
+        ]
+    },
+    {
+        "section_title": "Signature of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+        "content": []
+    },
+    {
+        "section_title": "(Relating to Sub-bylaw (3. f) of the Bylaw 15) Provisions Related to Establishing MDMS",
+        "content": []
+    },
+    {
+        "section_title": "IMEI Format",
+        "content": []
+    },
+    {
+        "section_title": "ESN/MEID Format",
+        "content": []
+    }
+]

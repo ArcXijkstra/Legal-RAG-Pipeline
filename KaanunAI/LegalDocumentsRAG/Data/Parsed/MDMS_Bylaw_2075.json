@@ -1,0 +1,3323 @@
+[
+    {
+        "element_id": "8e04ee8d23fc5ff95e3816cb1716ce6f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Approved by NTA D.N.3795, Dated 2075/1/10",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2e3eb8a8d4a197754c533c7503e4346e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "     ",
+        "type": "Image"
+    },
+    {
+        "element_id": "afdb88a258162d8eaf840c95d02d45db",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "NEPAL TELECOMMUNICATIONS AUTHORITY",
+        "type": "Title"
+    },
+    {
+        "element_id": "c961afe5fef331ed9bc8dfeccfddddb4",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Kathmandu, Nepal",
+        "type": "Title"
+    },
+    {
+        "element_id": "a10bf26c903b7139cd52db725fddeb11",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "c961afe5fef331ed9bc8dfeccfddddb4"
+        },
+        "text": "MOBILE DEVICE MANAGEMENT SYSTEM BYLAWS, 2075 (2018)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "516e4c593a4c22cbeb145993f6e01ae9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "c961afe5fef331ed9bc8dfeccfddddb4"
+        },
+        "text": "1",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "8178b8e15c191a3b099d0d31aa088288",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2
+        },
+        "text": "Mobile Device Management System Bylaws, 2075 (2018)",
+        "type": "Title"
+    },
+    {
+        "element_id": "b55bf278fc963e9769c20a8d76728053",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "8178b8e15c191a3b099d0d31aa088288"
+        },
+        "text": "In exercise of the powers conferred by Section 62 of the Telecommunication Act, 2053 (1997) Nepal Telecommunications Authority (NTA) has framed these Bylaws for the implementation of Equipment Identity Register (EIR) system to ensure national and consumer security, to identify the genuine mobile handsets and make the fake and non-genuine handsets inoperable in Nepal, to enable tracking/blocking of mobile handset that is lost/stolen, to encourage import and sell of genuine mobile handsets and to eradicate grey market.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cfc418bd1ab5d3180d77dc91d6d8718e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2
+        },
+        "text": "Chapter- 1 Preliminary",
+        "type": "Title"
+    },
+    {
+        "element_id": "fa3ff867642e6b050b8c601a2753510c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "1. Short title and commencement: (1) These Bylaws is called as the \"Mobile Device Management System Bylaws, 2075 (2018)\".",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "73e17ac81e0c1fd3835c0332b775f9ca",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "Management System Bylaws, 2075 (2018)\".",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d4aa55a6ec684bc7210e9915ec40e1b1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(2) These Bylaws shall come into force immediately.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0ab8bff472b77941f41b100d008e3d0b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "2. Definitions: Unless the subject or context otherwise requires, in these Bylaws,-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e171d9608bd3f4d41d1f4561429e4f25",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(a) \"Act\" means the Telecommunication Act, 2053 (1996).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3c72ac484afce8819b3449fbf87c7592",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(b) \"Authority\" means Nepal Telecommunications Authority established under Telecommunication Act, 2053 (1997). the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca09a648c459505d1af618e7f8d0f5cf",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(c) \u201cAuthorized Distributer\u201d means an entity authorized by the manufacturer/ Brand owner for distribution and sale of mobile devices in Nepal and holding a valid Type Approval certificate issued by the Authority under the Type Approval Working Procedure.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0349f28ca33c7dff1a3dcd7cf1701366",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(d) \u201cBlack List \u201cmeans a list of IMEIs/ESNs/MEIDs that are associated with mobile devices that have been denied service on mobile networks because they have been reported as lost or stolen, have an invalid IMEI/ESN/MEID number(s) or are not registered for use in Nepal by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "42bf6c817d6be31b6aa736b22bebddbf",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(e) \u201cBlocking Intimation\u201d means a message to alert subscribers that their mobile devices will be blocked along with a reason for blocking.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6e73b4163c97de9b6d403493e595b173",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(f) \u201cCompliant Mobile Device\u201d is a device meeting the following criteria; having valid IMEI/ESN/MEID number; not in the stolen/lost list; Type Approved by the Authority;",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4524adb4491d8c861cadc74fa08f866b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "2",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f6e6949e4c2b8eab5afee54c821277ce",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "and registered in the Mobile Device Management System (MDMS) and imported into Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9c39123241f39b138c07b53d273a9b17",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(g) \u201cDevice Blocking\u201d means denial of service to a mobile device by an MNO.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "365e73a2a0146909b2b151b9cb33e7a7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(h) \u201cDevice Import Interface\u201d means a web interface to Authorized Distributers/OEMs/Individuals for registration of IMEI/ESN/MEID number of devices for commercial import/personal use.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "17efcd9cef8041a626b271a68ac4f85f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(i) \u201cEIR\u201d means Equipment Identity Register which is a database that contains a record of the all IMEI/ESN/MEID numbers of mobile stations (MS) that are allowed in a network as well as database of all IMEI/ESN/MEID numbers of equipment that are banned in the network, e.g. because it is lost or stolen.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a4ec1f87c1661e518903ad5980e98be8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(j) \u201cESN\u201d means Electronic Serial Number which is uniquely identifies equipment and is embedded electronically by the manufacturer.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "15e88312bcea77d79e59ba2e67e3f893",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(k) \u201cGoN\u201d means Government of Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8f1d4d67a99377593cfdc4109f36dc08",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(l) \"IMEI\" means an International Mobile Equipment Identity allocated by the GSM Association. It is a unique 15-digit decimal number required to identify a mobile device on mobile networks.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4612415614ff432a1636a7f24d6f6ff6",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(m) \"Illegal Mobile Devices\" the mobile devices either having non-genuine/Fake/Null IMEI/MEID/ESN or imported through illegal means, or reported as lost/stolen and decided as illegal by the Authority",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "faca7f69423f76ed7864161ab4f0d104",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(n) \u201cMEID\u201d means Mobile Equipment Identifier; similar to an ESN; is a globally unique number for a piece of mobile equipment.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "41fdb74b66af0ea6dd04756b0b646128",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(o) \u201cMobile Device\u201d is a device identified by an IMEI/ESN/MEID numbers.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dd8417f0e04a40d31d1630a5d7b431d1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(p) \"MDMS\" is Mobile Device Management System installed for registration of the IMEI/ESN/MEID numbers of mobile devices that may be used for tracing and/or blocking of non-compliant mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ab575e349d275b5eacab546887ca0db9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(q) \u201cMDMS Service Provider\u201d or \u201cMDMSSP\u201d means third party entity authorized by NTA for design, develop, supply, installation, commissioning and operation of the MDMS on behalf of NTA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8d38564a780dda7adf9d061821568554",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(r) \u201cMNO\u201d means Mobile Network Operator licensed by NTA to operate mobile service.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7cce5fc3dbda52cebe91ed24a5c6f749",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "3",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f4125bf1f4204b9747fb62701b1046a9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(s) \u201cNotification List\u201d means a list of mobile devices with certain authentication issues such as having a valid IMEI/ESN/MEID number but not of a device model Type Approved by the Authority or not being registered for importation with the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6cd3da0cffa12aa278581d11fe691c39",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(t) \u201cOEM\u201d means an Original Equipment Manufacturer (OEM) which is a company that produces parts and equipment that may be marketed by another manufacturer.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d12088c169d6e7e333348f6094fc388d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(u) \u201cRegistration\u201d means submission of IMEI/ESN/MEID number of mobile devices by importers or individual to the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6a5495dbb9d810c4c3fd5be900937313",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(v) \u201cRUIM\u201d means Removable User Identity Module is a card developed for CDMA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "004d39cc29c7abadded906b3bf8e8e6b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(w) \u201cSecure File Interface\u201d means the secure interface for transfer of data between a mobile network and the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6cb8438f44e4aef8f8dcf62b2df1b580",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(x) \u201cSIM\u201d means Subscriber Identity Module is a card developed for GSM.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3fe3c06283b0e99f8f3cb043ca4ba96f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(y) \u201cSubscriber/Consumer\u201d means any natural person who enters into a contract with an MNO for acquiring mobile communication service.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9ef0e1b20a466e343bda6b1ded09d1fa",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "cfc418bd1ab5d3180d77dc91d6d8718e"
+        },
+        "text": "(z) \u201cVerification Interface\u201d is an interface (web and SMS) and application for stakeholders to verify the status of mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2d3267dc84d39042f689d2e1eccf9a39",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "Chapter - 2",
+        "type": "Title"
+    },
+    {
+        "element_id": "7fc89297e1bcb504bd84ecd11a9c6b5f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "Provisions Related to Mobile Communication Service and Device",
+        "type": "Title"
+    },
+    {
+        "element_id": "4a5b748630f5d0fb30147320307d5ae9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "3. Provision of Mobile Communication Services: (1) Mobile Communication Service shall be activated by MNO(s) only to compliant mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "66d4642ff21d1820dbd485acfb18cc8e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "(2) All Type Approval Certificate holders/ mobile device importers shall ensure that non- compliant mobile devices shall not be imported, sold, marketed.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1257eeef362831111212085a6747859a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "(3) Illegal mobile devices shall be blocked by MNO(s) from use in Nepal as instructed from MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a68a294caa4d9f08c90c93b66f2682cb",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "(4) Sub-Bylaw (3) of Bylaw (3) will come into effect after 6 months from the date of commencement of operation of MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aca8da568fe8f6303db9e9f4e4943973",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "(5) Not withstanding anything contained in Sub-bylaw (4) of Bylaw 3, the Mobile devices detected in illegal SIMBOX operation as call bypass shall be blocked as soon as the MDMS instructs to the MNOs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "369f3844cb200b60404e38c30481d23a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "7fc89297e1bcb504bd84ecd11a9c6b5f"
+        },
+        "text": "4",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "b5f61213934c1845ad727d8429f0aeb8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "4. Establishment of MDMS: (1) The Authority shall establish an MDMS by authorizing to an MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "348ab0ce809f1b0e0516ff9eeae4b6c6",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(2) The Authority will authorize to operate and maintain the MDMS system to the third party for five (5) years duration. The Authority shall prescribe Standard Operating Procedures for MDMS\u2019s implementation on technical, management and operational matters.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "47b6e3d95778be98a3692598ef8a0d53",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(3) The MDMS shall be installed with the necessary hardware and software to implement MDMS service. The service will enable the registration of mobile devices, verification of IMEIs/ESNs/MEIDs and identification of non-compliant mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ea54087b825d9c1e43ad6048bff8cb98",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(4) The MDMS shall collect the data of cloned/fake/null IMEIs/ESNs/MEIDs of mobile handsets that are already in use and submit the report to the Authority and also notify the concerned mobile user through SMS and IVR for awareness/warning notifying the status of the unique ID of mobile handset. The MDMS shall have intelligence to segregate cloned/fake IMEI based upon the data provided by MNOs through interface with Operator EIR Solution.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7cb74e3af5432d8054d0db41368337a8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(5) The MDMS shall make provisions to make the mobile devices operable even when those devices are having cloned/fake/null IMEIs/ESNs/MEIDs and imported/used into Nepal prior to the commencement of operation of MDMS..",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca9712328edd7ba0ada0ffe9db4b965f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(6) Notwithstanding anything contained in sub-bylaw (5) of Bylaw (4), the Authority may instruct the MDMSSP to block such devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c65a9e91a4888ef90fe0feb0af2d25ca",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "5. Application to be made for MDMS Service Provider Authorization:1 (1) The provisions of the Public Procurement Act of Nepal and Procurement Bylaw of NTA will be applicable to procure the MDMS Service.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1bedc09811d63c2925caceebc1198b02",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "(2) The Authority shall publish a notice for Expression of Interest (EOI) in English language in a national daily newspaper, specifying a period of at least 15 days inviting applications from the eligible persons desiring to obtain authorization to provide service for Design, Develop, Supply, Installation, Testing, Commissioning and Operation of MDMS service.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bd674d6d4cf094534e8d75423bdf327a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "1 Amendment as per NTA D.N.3816, Dated 2075/2/18",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ceeddd226efd3a4f3512c5a19b43aa8b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "5",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "70a033e680419d3e5ee01e6ff19702b8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(3) The Authority shall shortlist three to six applicants in general by evaluating the EOI received from the applicants based upon the EOI notice published pursuant to sub-bylaw (2) of this bylaw.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8c48a64df6823a5307331f58f182173f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(4) The Authority shall ask Request for Proposal (RFP) from the shortlisted applicants specifying the period of at least 30 days for submission of proposal to the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "15303fc89f3607dc888895fe83d697cd",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(5) Qualifying criteria, grounds for disqualification and evaluation criteria shall be as prescribed by the Authority in the RFP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "317be02531f3aff90a68b4782307d6e1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(6) The eligible and qualified applicant acquiring the highest score based on the Quality and Cost Based Selection Method will be declared as the Successful Applicant.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9790c5e8bbbf757148977af8e8f3d7d8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(7) LOI will be issued to the Successful Applicant to provide service for Design, Develop, Supply, Installation, Testing, Commissioning and Operation of MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "661e3ebac7a0ea4ce9601a185d75890a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "6. Eligibility Requirements: (1) The applicant shall have a minimum average annual turnover of at least Nepali Rupees 1,00,00,00,000.00 for the last three fiscal years .",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6a69eb6acb4f20b05e2520057d04d1d1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(2) The applicant shall have positive net worth for the last three fiscal years.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8aca224bae343742fe1bf17586b8636d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(3) The applicant shall have experience of having design, develop, supply, installation, testing and commissioning of EIR solution in at least 2 Countries.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3e549d692b6019f4bf13a1a53de91e4d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(4) The Applicant shall be nonblack listed by the concerned Authority of the respective country.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3f60d383a6e07015d965d7b8d4c7ad8e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "7. Authorization to be granted: (1) The Successful Applicant pursuant to sub-bylaw (1) of bylaw (5) to whom the Letter of Intent (LOI) is issued from NTA, must accept the LOI in writing within 15 (fifteen) days from the date of issuance of the LOI.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "28e924c4267522eab5a78ebdb4d13533",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(2) The Successful Applicant/s to whom the LOI has been issued shall furnish a Performance Guarantee as prescribed by the Authority. Then the Authority shall grant the authorization as MDMSSP to the Successful Applicant.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2d02360b94f50c92db442e43ca577713",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "8. Period of authorization: (1) The period of authorization of MDMSSP pursuant to sub- bylaw (2) of bylaw (7) shall be of maximum of five years.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d9cdea99b9fd6f763fb15d59127253da",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "6",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "a9e2bbaea817473f7e29a67309b3fff7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(2) The Authority has the right to cancel the Authorization of the MDMSSP in any time if its performance found unsatisfactory.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b68473decdfb405b7a384718b5a323c5",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(3) The Authority may extend the operation period beyond 5 years upon the mutual agreement between the Authority and the MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "79554144103e81d859a2d068869aed4e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "9. Obligations of MDMSSP: (1) MDMSSP shall register, identify and verify the new IMEI/ESN/MEID provided from importers and individuals.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e7c7dd38bf75429ffb827668594f5a31",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(2) MDMSSP shall receive application to track/block the IMEI/ESN/MEID of lost/stolen mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ff48e0fc539ef4f2be7a9352f658fa17",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(3) MDMSSP shall provide the verified list of IMEI/ESN/MEID to the custom office for custom clearance purpose",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d7645a8a4d7f7cd9d928946794e76095",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(4) MDMSSP shall provide the access to the MDMS system to the MNOs for implementation of EIR function.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "99b57e015ff37ff70c90303de1c44a72",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(5) MDMSSP shall segregate cloned/fake IMEI from the data provided by MNOs",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "705e0b93ad689639550edd2f1581881e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(6) The MDMSSP shall also have secure connectivity with operators\u2019 SMS gateways using industry standard protocol and interface like SMPP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9bf4ca2c0ed1eead24ffe171d8060126",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(7) The MDMSSP shall maintain the business confidentiality of the MNOs as applicable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a23c387b599ce2f4697a60b55336587e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "10. Terms and conditions to be abided by MDMSSP: The MDMSSP shall abide by the following terms and conditions:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8bc67b13a33eba08208e06a23662257a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(1) To design, develop, supply, install, commence, operate MDMS and maintain standard as specified by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ad4c1f4fc840fd0d2ba9ed7d26e4cd4f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(2) To repair and maintain it free of cost in conformity with the standards prescribed by the Authority if the MDMS is out of order due to any reason,.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c4cf3114dc5b3f0c799284206d87c116",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(3) To provide the inter-operable interface to MNOs, Type Approval Certificate holders/ Mobile Device Importers and individuals, Customs, Security Agency etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "42d91d3ea2fb1eb152c21133d7a79a00",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "(4) To operate the MDMS in conformity with the minimum International Standards prescribed by the 3GPP/ITU-T.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca3046c0efb92307105b56ec9ff18814",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "7",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d5b9cafee271aa5bd11bf42a55b02bda",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(5) To ensure that service provided by the MDMSSP to MNO, MDMSSP Type Approval Certificate holders/ Mobile Device Importers, individuals, MDMSSP Customs, MDMSSP and Security Agency as prescribed by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8a63630ce6fd907d39fc1da18a1c3e78",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(6) To abide by other terms and conditions as prescribed by the Authority in relation to the operation of MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "87ac664614e9fd258acc9a0720dc6688",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "11. Charges of Registration/Management: (1) One time registration fees for each mobile device imported into Nepal either by the Authorized importers or by individuals brought for personal use may be applicable as prescribed by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7d39b8af1906ba3a917fcfd432a7abb3",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(2) The Authority may authorize the MDMSSP to provide any value added services for benefit of the people.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1fd7eaa335cf90f8f3ac0466364a915f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "12. Registration of Mobile Devices: (1) A Device Verification Interface will be provided by MDMSSP to verify whether a device is a compliant mobile device.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8ddd19c3b81680b29a9cb168377e09d1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(2) Authorized distributors and OEMs who are Type Approval certificate holders will be required to register online the IMEI/ESN/MEID numbers of mobile devices to MDMS prior to import.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d8b083d15f6445c5492b7200215d465e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(3) An application has to be submitted to the MDMSSP in the format specified in Schedule-1 for registration pursuant to sub-bylaw (2) of bylaw (9).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "49a1d10825cc13e4341124e92335f2d5",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(4) Individuals importing a device for personal use complying the custom regulation will be required to register online the IMEI/ESN/MEID numbers of the device to MDMS with the application in the format as specified in Schedule-2.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "32497aea8ced53fc589fc9e736dc598b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(5) Un-registered mobile device brought by individual for non-commercial/personal usage through SIM/RUIM cards of Nepali MNOs will be notified to register as per sub-bylaw (4) of bylaw (9) with notification of denial of service by MNOs after 15 days from first detection on a Nepali mobile network as per instruction from MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d726d1f80b60d2a43a716075eaca9ea8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "(6) The MDMSSP shall be responsible to register, verify, facilitate for the import of the mobile device either through web based online system or any other methods as specified by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9ddb78ce342b8fc8015a7ebf261fac1c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "13. Blocking/Un-Blocking of Devices: (1) The MDMS shall generate a black list which the MNOs will use to block mobile devices and a notification list which will be used by MNOs for",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c2539dabbbcfc7a36cfd6a9ce99f87f1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "8",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "9264ce38379b9bab0ec0f14098576fbb",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "intimation to subscribers as required. For this purpose MDMS shall send notification SMS to respective user(s) using MNO\u2019s standard like SMPP or MAP signaling or other SMS interfaces.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e2e12ff4554f6dd9f16a84a43cf5a7e7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "(2) The lists as of sub-bylaw (1) of this bylaw (10) will be generated and provided to MNOs on a daily basis.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "746f1d6259139566a599cc0caf945502",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "(3) If mobile device is lost or stolen, the concerned person/owner has to apply an online application in the format as specified in Schedule-3 to track/block that mobile handset use with any SIM/RUIM card as applicable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e4be7036cbe7bb33b8234a919ff8b6ef",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "(4) Tracking and blocking of IMEIs/ESNs/MEIDs of lost or stolen mobile handsets shall be carried out by the MDMSSP as per the procedure prescribed by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "86bf39289ee1e292e581b97e315798e8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "14. Roamers: (1) Generally these Bylaws shall not apply to the mobile devices of subscribers to non-Nepali mobile network operators while roaming in Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d60f5f6d1686a339065fdfa07f56f9f0",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "(2) Whatsoever stated in sub-bylaw (1) of this bylaw (11), if the Mobile Device used by a roamer is suspected as threat to national security or used in criminal activity , the MDMS can be used to track/block the device in special circumstance.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1168f5e4c14c7f7bd3501e88e6a13e94",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "Chapter - 3 Provisions Related to Establishing the MDMS",
+        "type": "Title"
+    },
+    {
+        "element_id": "350cebc75f512095dca9b23f1c2bcc5f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "15. Functions of MDMS: (1) MDMS shall have the capability to maintain the database of the IMEIs/ESNs/MEIDs of all the devices registered on the mobile networks.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cf9feab85c2d442456c6a38708b91956",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "(2) MDMS shall be able to identify IMEIs/ESNs/MEIDs;",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2ce5216c77a5a00eea4cd03170cbe357",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "a. which are not in the global database",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a4c514b434e9e59bfb97a5db394b35d3",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "b. which are illegal to import/use in Nepal",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "02900415d959e29df3ed5a5a764e6999",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "b. which are null, duplicate or all zero",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "51fda8b0e38cdbb3cdce752c73bc714c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "(3) Under the MDMS, EIR shall contain the following information of the devices that are registered with all MNOs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b0143cb090cf0d7eac6e03a3f2c74e25",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "a. IMEIs/ESNs/MEIDs/IMEISVs",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "281c3f33929be034ddb35fa9c6f8b57c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "b. IMEIs/ESNs/MEIDs/IMEISVs status (white, grey, black)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1dcf98311afce40847d03d9726bd6aba",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "1168f5e4c14c7f7bd3501e88e6a13e94"
+        },
+        "text": "c. Date of record creation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5f82adfa27ff3ba1e9c5e74fe7845e58",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "9",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "bb3d336fcee506b334fcff86e42ddb47",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "d. Date of last record update",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6738383af8d054dbc3231afc82986f43",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "e. IMEIs/ESNs/MEIDs/IMEISVs status reason (Invalid, stolen, valid)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "48afd9969f4378cc0a4c0cafedd0a175",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "f. Form, in the format as referred to in Schedule-4",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d980521c5b475b6c857d30e74015aa6d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "g. List of IMSI/MSISDN being used on the IMEI if possible.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "97e0c59c078464ccd4f897b87c7e0a4f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(4) MDMS shall identify the device model, version, supported frequency and other information required by Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6315de9c150cae8908423de86d3a83ae",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(5) MDMS shall have facility to access global IMEI/ESN/MEID database",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c1780b7575fb64193247afd4c17db6dd",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(6) MDMS shall be interoperable with all the appropriate network elements and interfaces of mobile operators via Telecom Standard interface and protocols.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b705597978a973b380e0c7c36ab2e2b8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(7) MDMS shall perform a check on the IMEI/ESN/MEID/IMEISV format to verify if it is of a valid format and range.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "61700cd15c209e625c6516eec041869b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(8) Registration of Mobile Devices related to the import either by business purpose or individual purpose",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c64dbd63d844ab644793ed95e76601cb",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(9) If any importer requests MDMSSP for registering the IMEI/ESN/MEID/IMEISV numbers of mobile handsets to be imported, the third party must recognize as the rightful Authority to provide No objection letter to concerned Custom Office for custom clearance purpose and provide the registered IMEI/ESN/MEID/IMEISV numbers to the Operators for implementation of EIR as applicable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ea54d5b90c082cc1edf7e49bb615e880",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(10) Web-based/mobile app based online automation mechanism shall be developed and used for Registration of unique identifiers applicable to importers. Similarly the web-based/ mobile app based interface shall be provided to customs, security Agency, the Authority, MNOs as applicable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f596e63c971e849d43433fde0bd006de",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "(11) MDMS shall be scalable to meet the present and future requirements.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1cb5a5d6b02a45b9019f2060cd2e8e2d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Chapter - 4",
+        "type": "Title"
+    },
+    {
+        "element_id": "c08d1bee4e46ad80e86cab95ee83214d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Provisions Related to Rights and Obligations",
+        "type": "Title"
+    },
+    {
+        "element_id": "2c74f144d4c1e934b02fe35cee7fb5a2",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "16. Obligations of MNOs: (1) All MNOs shall ensure implementation of an EIR or any other related system in their networks as specified by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e21da08a2993d8f1d989ad6e510f33ba",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "10",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d696360572556ac6f7016386fe7b77f1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(2) MNOs shall ensure that their system is capable of facilitating the implementation and smooth functioning of the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0bd738493c29d356271cb46cf8908b98",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(3) If directed by the Authority MNOs shall upgrade their EIR system at their own cost in order to support the functioning of the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0fcdceabe2059f0b943a9b9e2115ab5c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(4) All MNOs shall setup, operate and maintain a Secure File Interface to the MDMS as well as provide secure connectivity between MDMS SMS gateway and their SMSC at their own cost as specified by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4e16ba4c5361cd0f8c3ff0c084e7d92b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(5) MNOs shall disseminate the awareness/ warning message to the user free of cost as specified by the Authority in coordination with the MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c3456e682e24de2d5d371e95992e8a0b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(6) Block the SIM/RUIM reported as that used in the lost /stolen mobile device by the subscriber and instructed by the MDMSSP\u2019s MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3a16fcdf052ebd03b2c4eac873181c76",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "17. Obligations of Importers of Mobile Devices: (1) All Type Approval Certificate holders/ Mobile Device Importers shall register accurate information of Mobile devices to maintain the list of IMEI/ESN/MEID/IMEISV numbers of devices in the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4f8120431fd7d1373409aa70536574d8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(2) All Type Approval Certificate holders/ Mobile Device Importers shall not in any way import/allow/sell any unauthorized phone/device. They shall import and sell only the mobile handsets type approved by the NTA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5a14424581e424fab88dce0e513519f9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(3) All Type Approval Certificate holders/ Mobile Device Importers shall take their required responsibilities regarding MDMS and any other provisions regarding these Bylaws.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d685c7a1e576ebdc05403a6b8fe5102f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(4) All Type Approval Certificate holders/ Mobile Device Importers shall submit the IMEIs/ESNs/MEIDs of mobile handset to MDMS as mentioned in sub-bylaw (2) of bylaw (9).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "79d70f21dd4fa16ea3c5027361fad04c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(5) Those mobile handsets already in market (stock of importer/distributor) and not registered in the Authority/MDMSSP and not latched in MNOs\u2019 network shall be registered in the MDMS within the timeline specified by the Authority by the concerned importer(s) or distributor(s)/ individuals.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b270639d1a7071333b47d44bd54dee30",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "18. Obligations of Customs Offices: (1) Custom Office shall release only those mobile devices which are already type approved by NTA and ensure that IMEI/ESN/MEID numbers of imported mobile devices are registered in MDMS and verified by accessing the MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "805330c99d218518f3584b0a74cc603f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "11",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "1537ddfae1ab809bc2acd924e83c0ce8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "(2) Custom Offices shall assist and coordinate with the NTA to ensure the import of genuine/authentic mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e3379f3843b12bf75c2b784118198aef",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "c08d1bee4e46ad80e86cab95ee83214d"
+        },
+        "text": "19. Subscriber Rights: Subscribers may report their lost or stolen mobile devices to the MDMSSP in order to track or block the device.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "881d2dfdc474b6644a06953d304c1169",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12
+        },
+        "text": "Chapter- 5 Relationship among Stakeholders",
+        "type": "Title"
+    },
+    {
+        "element_id": "ac1e7a33a36582382843ca5b9b3f1ad7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "881d2dfdc474b6644a06953d304c1169"
+        },
+        "text": "20. MNOs & Subscribers: (1) MNOs will make sure that they send intimation to all those subscribers who are using non-compliant mobile devices as triggered by MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "934f9948bdd5ad4ddba75634ae81b89b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "881d2dfdc474b6644a06953d304c1169"
+        },
+        "text": "(2) Subscribers may contact the concerned MNO for guidance.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "991d958eada1a3baf60c7bb0fdfd43fa",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "881d2dfdc474b6644a06953d304c1169"
+        },
+        "text": "(3) MNOs shall train their customer support staff to handle MDMS related queries received from subscribers.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b13a50d5c4decd348338b7b80378481b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "881d2dfdc474b6644a06953d304c1169"
+        },
+        "text": "21. Non Disclosure Agreement between MNOs and MDMSSP: Non-Disclosure Agreement shall be signed between MNOs and MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4d224ff78b034af84364da73e1b52e5d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12
+        },
+        "text": "21. Non Disclosure Agreement between MNOs and MDMSSP: Non-Disclosure",
+        "type": "Title"
+    },
+    {
+        "element_id": "40e85a86c0013db82f22cf5171c07941",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "Agreement shall be signed between MNOs and MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1ef6e94d31c651f303213824868e53df",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "22. Authorized Distributers/ Mobile Device Importers/OEMs & Authority: Authorized Distributers/ Mobile Device Importers/OEMs shall ensure that their devices are Type Approved by the Authority according to the Type Approval Working Procedure.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "640f7ce207ea8e20496233ea23fe7bd7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "Authorized Distributers/ Mobile Device Importers/OEMs shall ensure that their devices are Type Approved by the Authority according to the Type Approval Working Procedure.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3461efff4bbd3d4e42cf02279452cb4d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "23. Public Education & Awareness Campaigns: (1) All MNOs shall carry out extensive media campaigns at their own cost to educate consumers of the MDMS; the requirements for mobile devices to be Type Approved and registered on the MDMS and tools for checking the status of mobile devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1cabaf59871fb36c4b08c4cdb1292fff",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "(2) MNOs shall train their Customer Service and Call Center staff to guide customers on MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "72e08e7a72c234e3a76a11be24f17f7c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "(3) The Authority shall organize country-wide awareness campaigns in the print and electronic media.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cc85a0259a52fa36517527b87ac96383",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "4d224ff78b034af84364da73e1b52e5d"
+        },
+        "text": "12",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "5d824673439a93b15b752b48cf0d8e68",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "(4) MNOs shall train their customer service representatives and provide brochures for consumers instructing them on how to check the authenticity of a mobile device by means of field verification interface.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c8482b28c1290c676fdc6fff661b4c40",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "24. Monitoring and Inspection: NTA shall be responsible to ensure the compliance of these Bylaws through regular monitoring and inspection. .",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1aa50f86bf365e50fd27d98fe9cb9a3f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "25. Complaints System: (1) MNOs, Authorized Dealers and Type Approval Certificate Holders shall establish an efficient mechanism to promptly receive, process and respond to complaints by subscribers regarding their devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2cad00997231a0f25a27d0a2e9bbd51f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "(2) NTA may assign a special short code for complaint handling and any other activities associated with MDMS.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "57dc3da85af48945f85a1a3a6fb3e1e6",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "(3) It shall be the duty of all the stakeholders to address the consumer complaints.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e2c931683bdf4c828de9fd3bd1ae9bef",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "26. Privacy of data: (1) All the concerned partied involved (Authority, MNOs, Importer, Distributer and all who are concerned and connected with MDMS) shall not disclose the contents of any data being transmitted or received from the MDMS. It must remain under their control except to the extent permitted by the Authority in writing or through any instruction/directive.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ce8b5279a5184d80ce201d775fc0fdf9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "(2) MNOs shall take all reasonable measures to safeguard the databases from unauthorized interception or unauthorized access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ed6b1fce2f196deeb4e669c3b185b409",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "(3) Authority and MDMSSP shall take all reasonable measures to safeguard the databases from unauthorized interception or unauthorized access to MDMS database and user information. No business related confidential information shall be shared to MNOs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c7777b64e247ff7ac99fcba73223b0ee",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "27. Directions of the Authority: All directives, notifications, standard operating procedures and orders issued by the Authority from time to time shall be binding and applicable to the MNOs, MDMSSP, importers and individuals.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7afe3be71d74640167b68faf18aac691",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "28. Confidentiality of Information: (1) Without prejudice to the provisions of any law for the time being in force, Authority/all MNOs/MDMSSP shall ensure the confidentiality of all information disclosed by Consumers under the provisions of this Bylaws.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "584ea8e754ee7499eb48f31117cd226b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "13",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "33a2be0f29f5265865b8308f5d58c1aa",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "(2) Violation of non-disclosure agreement shall be punished to the maximum extent as decided by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f6ed7578878489df1832ac18c891b526",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "29. Power to Settle Dispute: (1) The Authority shall have the power to settle disputes between the MDMSSP and MNO or the MDMSSP and importer/individual relating to the service provided by the MDMSSP.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0340d010e94058399347d58e7df03a0a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "(2) The method and procedure of the settlement of disputes pursuant to sub-bylaw (1) shall be as prescribed by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2d1066f4a89f0eab8d4cb89a833d83f2",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "Chapter -6 Miscellaneous",
+        "type": "Title"
+    },
+    {
+        "element_id": "5f697d416049d3f4e7bf355a1889cd23",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "2d1066f4a89f0eab8d4cb89a833d83f2"
+        },
+        "text": "30. Maintenance of Up-to-date Records: The MDMSSP shall on behalf of Authority prepare and maintain records of all transactions on the MDMS service in an up to date manner and shall present the said records to the Authority as and when required in the course of inspection or inquiry.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0152df8c0e0b7bcfb901ee8f307ffa79",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "2d1066f4a89f0eab8d4cb89a833d83f2"
+        },
+        "text": "31. Power to Remove Difficulties: If any difficulty arises in the implementation of this bylaw, the Authority may take necessary decision to remove such difficulties.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "efa8ad86f7a0be462b9520d0cf61ee16",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "2d1066f4a89f0eab8d4cb89a833d83f2"
+        },
+        "text": "32. Repeal: The Interim Directives for the Implementation of National Equipment Identity Registry (NEIR)-2072 is repealed effective from the date of establishment and commencement of MDMSSP pursuant to this bylaw.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "570049125295f2742311b9ca5870cad8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "2d1066f4a89f0eab8d4cb89a833d83f2"
+        },
+        "text": "14",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "69312ff227d311f066acc6d6a6fdaa84",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15
+        },
+        "text": "Schedule-1: Format of Application (Importer) (Relating to Sub-bylaw (3) of the Bylaw 12)",
+        "type": "Title"
+    },
+    {
+        "element_id": "5c6ddb4932121869d5d90d8299fb11e5",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "69312ff227d311f066acc6d6a6fdaa84"
+        },
+        "text": "To,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7256d9441f2cf26dc81bba1ee7c81b29",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "69312ff227d311f066acc6d6a6fdaa84"
+        },
+        "text": "The MDMS Service Provider",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a9e9b9377876af8a0155c870d90a76bb",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "69312ff227d311f066acc6d6a6fdaa84"
+        },
+        "text": "Kathmandu, Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1a6f5eaf82ff8525e000361df0a5474a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15
+        },
+        "text": "Subject:- Registration of IMEI/ESN/MEID Nos Mobile Device",
+        "type": "Title"
+    },
+    {
+        "element_id": "dbf9e0b96e1b7418466bf901fb1b7b63",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "I/we have attached the details of Unique Identifiers/IMEI of mobile handset of Brand [Brand Name], Model No. [Model No.] in the format given below in softcopy form. I/We would like to request you to register those Unique Identifiers/IMEI numbers in MDMS and also recommend to [Name and Address of Custom Office] to release the mobile handsets and also provide the information to all MNOs in Nepal to make the Mobile Devices Operable.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6e16cecc692dffa56388380a905912d3",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a",
+            "text_as_html": "<table><thead><tr><th>S.No</th><th>IMEI</th></tr></thead><tbody></tbody></table>"
+        },
+        "text": "S.No. IMEI",
+        "type": "Table"
+    },
+    {
+        "element_id": "40da2862991d0e8b7636a23c633f26a1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "I/We hereby declare& Commit to abide the terms and conditions set by the Authority for Registration & Management of the aforementioned Mobile Devices. [I/We] hereby would like to declare that the information and documents submitted by [me/us] in this application form are true and correct .",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d94071893d43f2701afb209ebd2fbfbd",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a",
+            "text_as_html": "<table><tbody><tr><td>Thank you.</td></tr><tr><td>Regards,</td></tr><tr><td>Designation: ...........ccoeeveiiiinniinninnnn,</td></tr><tr><td>Signature: .........oooiiiiiiiii</td></tr><tr><td>Date: oo</td></tr></tbody></table>"
+        },
+        "text": "Thank you. Regards, Name: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026 Designation: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. Signature: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. Date: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+        "type": "Table"
+    },
+    {
+        "element_id": "832f73c6bf5fb05862ebb20bff11f23e",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "Thank you.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7f000ecd3a6584fdc78404a136f6ac89",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "Regards,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "742fbcf9957933595b4c69dd45991408",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "15",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "a8bb7fe42a91e456bcc9d97c3641dfa3",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "1a6f5eaf82ff8525e000361df0a5474a"
+        },
+        "text": "Schedule-2: Format of Application to Register (Individual)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c159f7e06df28f543ce8c194fc0f40b5",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "(Relating to Sub-bylaw (4) of the Bylaw 12)",
+        "type": "Title"
+    },
+    {
+        "element_id": "138d1c7f0df5f1b35a3207b79d18edf8",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c159f7e06df28f543ce8c194fc0f40b5"
+        },
+        "text": "To,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9dc7faf517f26fdd2bd1bf86c92f8cd2",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c159f7e06df28f543ce8c194fc0f40b5"
+        },
+        "text": "The MDMS Service Provider",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c7309154ffa8ff8d15201c94c53540d6",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c159f7e06df28f543ce8c194fc0f40b5"
+        },
+        "text": "Kathmandu, Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8cb39b32e61d26552da15265c0379e20",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Subject:-About Registration of IMEI/ESN/IMEI Mobile Handset",
+        "type": "Title"
+    },
+    {
+        "element_id": "573c593957ecac49977032159b1f3e4c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "8cb39b32e61d26552da15265c0379e20"
+        },
+        "text": "I/we would like to request to register the IMEI/ESN/MEID number(s) of mobile handset having the following details.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2ebbcd4fc9a21eeaab4048a2c6283ab7",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "8cb39b32e61d26552da15265c0379e20"
+        },
+        "text": "1) Details of Mobile Handset:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dba66539e6cc9d301a6a6dfe955d0a61",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Brand Name:",
+        "type": "Title"
+    },
+    {
+        "element_id": "c6d60a30d7354aad2c819171e9c0a474",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Model No:",
+        "type": "Title"
+    },
+    {
+        "element_id": "7d47455d7baa03ff4c753e03a9bcd687",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c6d60a30d7354aad2c819171e9c0a474"
+        },
+        "text": "IMEI/ESN/MEID:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "982bd14a61e4de69bb28076f8cdc67d5",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c6d60a30d7354aad2c819171e9c0a474"
+        },
+        "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ee826c3899aa3cc43b08bab2b5367416",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "c6d60a30d7354aad2c819171e9c0a474"
+        },
+        "text": "2) Name of Applicant: ...\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "b880511e2ac7e01507ed8f47ce44bfef",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Citizenship No. or Other ID Card No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+        "type": "Title"
+    },
+    {
+        "element_id": "b7a3f23f8ea5938ce30260e34a77a770",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "b880511e2ac7e01507ed8f47ce44bfef"
+        },
+        "text": "Address of Applicant:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "06ae5767d8233f9a3fe90a12b2c3a536",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "b880511e2ac7e01507ed8f47ce44bfef"
+        },
+        "text": "Contact No. of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "2023556d9bf6bb728e9085cd90167b92",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "b880511e2ac7e01507ed8f47ce44bfef"
+        },
+        "text": "Email ID of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "91f6cfae7ed198acc99d2e7ed6e81bb1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Tel. No:",
+        "type": "Title"
+    },
+    {
+        "element_id": "c86f767a01ee1e224895d61bbb65f4a3",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "91f6cfae7ed198acc99d2e7ed6e81bb1"
+        },
+        "text": "3) Country of Import:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d2f959111bbca9b3c17bc43dd53f733d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "91f6cfae7ed198acc99d2e7ed6e81bb1"
+        },
+        "text": "4) Declaration & Commitment:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "19700035900f2a02dd19257f4180f02c",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "91f6cfae7ed198acc99d2e7ed6e81bb1"
+        },
+        "text": "a. Upon Registration in MDMS, [I/ we] fully commit to abide by the Terms and Conditions set by the MDMSSP/Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "aee69ab7a1c75fdd6c974bb3c3d97abe",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "91f6cfae7ed198acc99d2e7ed6e81bb1"
+        },
+        "text": "b. [I/we] hereby declare that the information and documents submitted by [me/us] in this application form are true and correct.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5277c5cb0c7b9b4e80dd5be1625a42b1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "91f6cfae7ed198acc99d2e7ed6e81bb1"
+        },
+        "text": "Name of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Signature of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Date: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "802b19385f7491383aa79ca724827d52",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "16",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "e1356ebe1648f2ea14ac76de77026224",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Schedule-3: Format of Application to request to track/block the mobile device",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9ce8b917762c1f12edc91ebbc7ff54f1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "(Relating to Sub-bylaw (3) of the Bylaw 13)",
+        "type": "Title"
+    },
+    {
+        "element_id": "cc4c4a3d5cf754d639a7e9b98a52b0c4",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "9ce8b917762c1f12edc91ebbc7ff54f1"
+        },
+        "text": "To,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4aacd9858f20037be4289f326879b815",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "9ce8b917762c1f12edc91ebbc7ff54f1"
+        },
+        "text": "The MDMS Service Provider",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cec65020bad86a2e50747873375a49f9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "9ce8b917762c1f12edc91ebbc7ff54f1"
+        },
+        "text": "Kathmandu, Nepal",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "62fd092abbe4b5bce8218794ecc54909",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Subject:-About stolen/stolen Mobile Handset",
+        "type": "Title"
+    },
+    {
+        "element_id": "0b3cb180227b9bd77d586fc418f8effd",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "62fd092abbe4b5bce8218794ecc54909"
+        },
+        "text": "In connection to the subject, I/we have lost the mobile handset having the following details. I would like to request to track/block this mobile handset from all the Mobile operators of Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "35512a77286a7aac2872ce29a7cc4517",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "a. Details of Mobile Handset:",
+        "type": "Title"
+    },
+    {
+        "element_id": "7ff7226b203c4eb3d5564c5cf5bea13b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "35512a77286a7aac2872ce29a7cc4517"
+        },
+        "text": "IMEI/ESN/MEID: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Mobile Phone No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Name of Applicant:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Citizenship No. or Other ID Card No.: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Address of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Contact No. of Applicant: ..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Email ID of Applicant: ...\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "08e4295c7f74a4a64cd60d2303409f34",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "35512a77286a7aac2872ce29a7cc4517"
+        },
+        "text": "b. I/We have attached the following document with this application.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9c8adcfe5b473477a17d15388a01e542",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "35512a77286a7aac2872ce29a7cc4517"
+        },
+        "text": "1. Copy of Citizenship or Other ID Card.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b421d7067851c8619224d5ddef2d8263",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "35512a77286a7aac2872ce29a7cc4517"
+        },
+        "text": "2. Copy of Invoice of mobile handset",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "185e54e3ebad602d989a6c2312233e6d",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "c. Declaration/Commitment",
+        "type": "Title"
+    },
+    {
+        "element_id": "227243c1a0070fce04a78305c89e7225",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "185e54e3ebad602d989a6c2312233e6d"
+        },
+        "text": "[I/ we] fully commit to abide by the actions taken by the MDMSSP as prescribed by the Authority.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f51dd6a841de27e508915a785a755e29",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "185e54e3ebad602d989a6c2312233e6d"
+        },
+        "text": "[I/we] hereby declare that the information and documents submitted by [me/us] in this application form are true and correct.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e97bfcc7430560b53129a1aa500b936f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "185e54e3ebad602d989a6c2312233e6d"
+        },
+        "text": "Name of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "cbf2954181f9a26525dc5ac929ee4849",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Signature of Applicant: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+        "type": "Title"
+    },
+    {
+        "element_id": "b72c9bf7515de87866bdb6ce2a14f89f",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "cbf2954181f9a26525dc5ac929ee4849"
+        },
+        "text": "Date: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "9ade77539a8834186eb4332b6abd6cd9",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "cbf2954181f9a26525dc5ac929ee4849"
+        },
+        "text": "17",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ed8f22fd0afd858460815b48ac1b6460",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "Schedule-4",
+        "type": "Header"
+    },
+    {
+        "element_id": "cce0323213fc8a9fc5a403917b779721",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "ed8f22fd0afd858460815b48ac1b6460"
+        },
+        "text": "(Relating to Sub-bylaw (3. f) of the Bylaw 15) Provisions Related to Establishing MDMS",
+        "type": "Title"
+    },
+    {
+        "element_id": "e6d91cc531395541b8c3f775d555a605",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "ed8f22fd0afd858460815b48ac1b6460"
+        },
+        "text": "IMEI Format",
+        "type": "Title"
+    },
+    {
+        "element_id": "1c5215b7447a4401b6ffaa3461b97f60",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "e6d91cc531395541b8c3f775d555a605",
+            "text_as_html": "<table><thead><tr><th>EL Type Allocation Code (TAC)</th><th>Serial Number</th><th>Check Digit</th></tr></thead><tbody><tr><td>NNXXXXXX</td><td>777777</td><td>A</td></tr></tbody></table>"
+        },
+        "text": "Type Allocation Code (TAC) Serial Number Check Digit NNXXXXXX ZZZZZZ A",
+        "type": "Table"
+    },
+    {
+        "element_id": "a3780cbae4007c7db190febaec764f14",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "e6d91cc531395541b8c3f775d555a605",
+            "text_as_html": "<table><thead><tr><th>TAC</th><th>Type Allocation Code, formerly known as Type A pproval Code</th></tr></thead><tbody><tr><td>NN</td><td>Reporting Body Identifier</td></tr><tr><td>XXXXX X</td><td>Mobile Equipment (ME) Model Identifier defined by Reporting Body</td></tr><tr><td>177777</td><td>Allocated by the Reporting Body but assigned per ME by the Type Allocation Holder</td></tr><tr><td rowspan=\"6\">A</td><td>Check digit, defined as a function of all other IMEI digits</td></tr><tr><td>IMETI status White</td></tr><tr><td>Grey</td></tr><tr><td>Black Date of record creation</td></tr><tr><td>Date of last record update</td></tr><tr><td>IMET status reason (valid invalid, stolen, tempered, cloned)</td></tr></tbody></table>"
+        },
+        "text": "TAC Type Allocation Code, formerly known as Type Approval Code NN Reporting Body Identifier XXXXX Mobile Equipment (ME) Model Identifier defined by Reporting Body X ZZZZZZ Allocated by the Reporting Body but assigned per ME by the Type Allocation Holder A Check digit, defined as a function of all other IMEI digits IMEI status White Grey Black Date of record creation Date of last record update IMEI status reason (valid invalid, stolen, tempered, cloned)",
+        "type": "Table"
+    },
+    {
+        "element_id": "9406747a76eed36a5454ba1b8baed6d1",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "ed8f22fd0afd858460815b48ac1b6460"
+        },
+        "text": "ESN/MEID Format",
+        "type": "Title"
+    },
+    {
+        "element_id": "29dc55124eb756c38ee06ddaa589e26a",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "9406747a76eed36a5454ba1b8baed6d1",
+            "text_as_html": "<table><thead><tr><th>Type Allocation Code (TAC)</th><th>Serial Number</th><th>Check Digit</th></tr></thead><tbody><tr><td>RRXXXXXX</td><td>777777</td><td>A</td></tr></tbody></table>"
+        },
+        "text": "Type Allocation Code (TAC) Serial Number Check Digit RRXXXXXX ZZZZZZ A",
+        "type": "Table"
+    },
+    {
+        "element_id": "353cc065061ced01b5edc11eab09c605",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "9406747a76eed36a5454ba1b8baed6d1",
+            "text_as_html": "<table><thead><tr><th>TAC</th><th>Type Allocation Code, formerly known as Type A pproval Code</th></tr></thead><tbody><tr><td>NN</td><td>Regional code</td></tr><tr><td>XXXXX X</td><td>| Manufacturer code</td></tr></tbody></table>"
+        },
+        "text": "TAC Type Allocation Code, formerly known as Type Approval Code NN Regional code XXXXX Manufacturer code X",
+        "type": "Table"
+    },
+    {
+        "element_id": "e69bbc6af85d175e752dd0decf8f26d6",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "18",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "6037ca74ef85b500d2a4e288d2788bc4",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19,
+            "text_as_html": "<table><tbody><tr><td>277777</td><td>| Allocated by the Reporting Body but assigned per ME by the Type Allocation Holder</td></tr><tr><td>A</td><td>Check digit, defined as a function of all other ESN/MEID digits</td></tr><tr><td></td><td>Date of last record update</td></tr><tr><td></td><td>ESN/MEID status reason (valid invalid, stolen, tempered, cloned)</td></tr></tbody></table>"
+        },
+        "text": "ZZZZZZ Allocated by the Reporting Body but assigned per ME by the Type Allocation Holder A Check digit, defined as a function of all other ESN/MEID digits ESN/MEID status White Grey Black Date of record creation Date of last record update ESN/MEID status reason (valid invalid, stolen, tempered, cloned)",
+        "type": "Table"
+    },
+    {
+        "element_id": "a997d67bc9c4ee02e15d2262ddb0e03b",
+        "metadata": {
+            "filename": "MDMS_Bylaw_2075.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19
+        },
+        "text": "19",
+        "type": "UncategorizedText"
+    }
+]

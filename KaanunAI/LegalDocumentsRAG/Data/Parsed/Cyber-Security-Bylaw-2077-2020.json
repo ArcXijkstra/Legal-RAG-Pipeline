@@ -1,0 +1,4192 @@
+[
+    {
+        "element_id": "fb2017dbea203452e154d96ffde737d5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Cyber Security Byelaw, 2077 (2020)",
+        "type": "Title"
+    },
+    {
+        "element_id": "f9c50e6c68479e197601f5d3cea0dc58",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "57fdfaa018c5f116860f8779252fd4ef",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "f9c50e6c68479e197601f5d3cea0dc58"
+        },
+        "text": "In exercise of the powers conferred by Section 62 of the Telecommunication Act, 2053 (1997) Nepal Telecommunications Authority (NTA) has framed this Byelaw for the implementation of cyber security standards and best practices so as to protect ICT Infrastructure and Information Systems of Telecommunication Service Providers of Nepal from various malicious attacks and threats; and build trust and confidence of users towards using ICT technology and services.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6b77f99817f48d324e4c62cab2f0cf6f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Chapter-1 Preliminary",
+        "type": "Title"
+    },
+    {
+        "element_id": "92d3e24c21eb0fd50b460edf9c3e18e3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "1. Short Title and Commencement: (1) This Byelaw is called as the \"Cyber Security Byelaw, 2077 (2020)\".",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ac0f45b0fb1b761449c2ee2a04809e10",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(2) This Byelaw shall come into force immediately.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4de396e6fffa568d384c6a8dfe638db3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "Unless the subject or context otherwise requires, in this Byelaw,-",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b7899c73d427daad8398cb766447559b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(i) \"Act\" means the Telecommunication Act, 2053 (1997).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "10499b2a603fe0ad0affdc64e0b0cc55",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(ii) \"Regulation\" means the Telecommunication Regulation, 2054 (1998).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "33636e8fb696ea41a32dbfbcfcfecd71",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(iii) \u201cAuthority\u201d means Nepal Telecommunications Authority (NTA) established under the Telecommunication Act, 2053 (1997)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "daa8be632ff97b353b10b49dd507018f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(iv) \u201cLicensee\u201d means the telecommunications service providers who have obtained license from NTA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "05c8ddb3485f971037431356ac4f1e5f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(v) \u201c Denial of Service (DoS) Attack \u201d means overloading a system with so many requests so that it cannot serve normal requests.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "eb995ff238acff892c1f020581b95adf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(vi) \u201c Identity theft \u201d means pretending to be someone you are not.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "09559647663538d370e11b7595cc93fc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(vii) \u201c Fraud \u201d means manipulating data for the purpose of committing a crime, e.g. changing financial records to enable someone steal or transfer money to an account.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "37fe2cf39448dd8c4960e776bcbb7f91",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(viii) \u201cSpamming\u201d means distributing unsolicited e-mails to hundreds of different addresses.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "967e18728bb0f1a328d38300f3e874f4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(ix) \u201cIntellectual property theft\u201d means stealing of another person\u2019s or companies intellectual property.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1eae46d499da2d2695f5d21036859db6",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1,
+            "parent_id": "6b77f99817f48d324e4c62cab2f0cf6f"
+        },
+        "text": "(x) \u201cPhishing\u201d means deceiving individuals to gain private or personal information about them.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a2a5e6b9d8fa940d00930f8407e766dd",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 1
+        },
+        "text": "Page 1 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "7044773aa9fffac2450a9a6e7b21a2f1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "383c07204b9ff54a58eceb633738979e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xi) \u201cSpoofing\u201d means pretending to be something else in an attempt to gain confidence, get access to a system, steal data or spread malware.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4a0ec0268e9abc161a2189ae228c1d5d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xii) \u201cUnauthorized access\u201d means gaining access to systems you are no authority or have no permission to access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bed62a9a26eda2aad1abf94f64a9b205",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xiii) \u201cCore Services\u201d means the services which includes but not limited to the exposed services to the public internet such as Web, Email, Domain Name System (DNS), Billing, Customer Relationship Management (CRM) etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f316348d50b316b6e239a733f7ac86a7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xiv) \u201cCore System\u201d means the system which provides core services.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fc7b256c185ab0a2187b4dadf0a4eb38",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xv) \u201cCloud Services\u201d means services that provide on-demand availability of computer system resources and services, especially data storage (cloud storage) and computing power, without direct active management by the user.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dfd94ad27fc8f6275838d54ec9a6ff22",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xvi) \u201cCritical Services\u201d means the services identified as critical by the licensee.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8d2b3766d8ca1281e5414537a3ef1fd7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xvii) \u201cNext Generation Firewall\u201d means Next-generation firewalls (NGFWs) deep-packet inspection firewalls that move beyond port/protocol inspection and blocking to add application-level inspection, intrusion prevention, and bringing intelligence from outside the firewall. are",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3f0fdacd43aebbb0f531a4c3036cb965",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xviii) \u201cIP\u201d means Internet Protocol based on Version 4 and Version 6.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8297d34bab67cf8c076ce9fc109eee78",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xix) \u201cSensitive Data\u201d means the data which includes but not limited to password, phone number, email address, mobile number, card number, PIN, security code, bank details etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8d26130a51ace7a2a2e21a5347a435da",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xx) \u201cCritical Emergency Response Team (CERT)\" means an expert group that handles computer security incidents.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "67967580f65fee8913decc6efbacd6b0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xxi) \u201cSecurity Operation Center (SOC)\" means a team and a facility dedicated to and organized to prevent, detect, assess and respond to cyber security threats and incidents, and to fulfill and assess regulatory compliance.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6ceabbbf2305262503ee23a10807c660",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xxii) \u201cRoute Origin Authorization (ROA)\u201d means a digitally signed object that provides a means of verifying that an IP address block holder has authorized an Autonomous System (AS) to originate routes to one or more prefixes within the address block.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c45665a69c95dac3b90d9f318c760fbf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xxiii) \u201cResource Public Key Infrastructure (RPKI)\u201d means an Infrastructure to Support Secure Internet Routing that includes cryptographic method of signing records that associate a BGP (Border Gateway Protocol) route announcement with the correct originating AS number.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5871192545919b28599d5cc755887437",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2,
+            "parent_id": "7044773aa9fffac2450a9a6e7b21a2f1"
+        },
+        "text": "(xxiv) \u201cAAA\u201d stands for Authentication, Authorization and Accounting.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7bc178dc67bd353920c24b66e9487549",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 2
+        },
+        "text": "Page 2 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "1c9d9558c0574b0a95dadd2af1839300",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "fa16e2f4c45667c119d153285f46b2bc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "Chapter-2",
+        "type": "Title"
+    },
+    {
+        "element_id": "119630f4be5d18e2a98d1f7cea7114ff",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "Provisions Relating to General Security Standards and Practices",
+        "type": "Title"
+    },
+    {
+        "element_id": "6a600e33c31f9cccc3352c6c60231778",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "3. Licensee shall have an updated recorded copy of document where all its technological assets like hardware, software, and license are managed and segregated as per criticality, usage, location, versions, owner, purchase date, update date like details.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "54f1c988de32a542c983eb5907082547",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "4. Licensee shall have its board approved ICT Security Policies for planning, organizing, directing, controlling and monitoring of information management systems. These ICT Security Policies shall be applied/ executed for efficient and effective management of People, Process and Technology.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "baa722236381acabf26166a080cfccd8",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "5. Licensee shall review ICT Security Policies developed at least once a year. However such policies can also be reviewed frequently as per the need or as per major changes in organizational structure, infrastructure or process.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "97690d88d1c3efcf8a8d5cf1e48f8f27",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "6. Licensee shall have clearly defined and updated organogram with roles and responsibilities for its personnel (system operators, system developers, network administrators, information owners, security officers, users etc.), which shall be reviewed periodically.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5895ebed005b33535a8d7d4200db66e0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "7. Licensee shall have employees' related policy addressing the following items.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f6644025647eb05123d477cd1b8182e2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "(i) Proper handling of social media.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0bca7b5a0e0e51dea131179a044992a5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "(ii) Usage of Official Devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "5a475b19c24912545703b7002a5161c0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "(iii) Usage of Personal devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "db81a91657dc948a9ea638ae454e7529",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "(iv) Proper handling of official emails/accounts and information.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "acbf8c7cdcce2aa8b0b3eb5929f791bd",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "8. Licensee shall have provision for access control and proper segregation of dedicated computing environment for highly sensitive systems. Also, Access controls shall be configured to ensure that users are restricted to Read, Write, Execute, Delete based on the organizational information access policy.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "18dd412bd26e4fe497b150e030b24c26",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "9. Licensee shall promote information security awareness throughout the organizations and arrange training and education to ensure that all related parties understand the risks, observe the security regulations and requirements, and confirm to security best practices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ade8617bd7546b0a4d285aa84f704958",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3,
+            "parent_id": "119630f4be5d18e2a98d1f7cea7114ff"
+        },
+        "text": "10. Licensee shall adopt risk-based approach to identify, prioritize and address the security risks and consequences associated with vulnerabilities of information systems in a consistent and effective manner and determine the mitigation measures to reduce the risks to an acceptable level.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "13728b1e3b37fad71e06454765ea68fd",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 3
+        },
+        "text": "Page 3 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "884a4a6d7674978d2d0048eac46cf728",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "dfff0c694455df239f1c0430885a5e35",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "11. Licensee shall have provisions for User Account and in general comply with the followings:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2b4272d38cd53cbd5aea4d34c6761927",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(i) All user accounts and their privileges should be subject to an approval process and should be documented.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "4b0a493a9f1f4f658fb6c159682d8f7a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(ii) Admin privileges and any other special access privileges should be restricted to authorized individuals and documented.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a4b79a1a67c37cb6e4c6763e0235af21",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(iii) Admin accounts shall only be used to perform admin tasks and not for everyday access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "892d4aac81b3c3a1751d0ad8645d33e3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(iv) Admin accounts shall be set to require a password change every ninety (90) days or less.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b01783047775ae7b76841f6f32063fdc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(v) Every individual user shall have a unique user name and user account.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "36544192a91ac39819a9530e551f42b4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(vi) Any user account with special privileges or admin rights shall be removed or periodically disabled when no longer required or if the individual changes role or leaves the organization or after a predefined length of inactivity (e.g. if the account is not used for ninety days then it is disabled).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "992f29461fa222a05eff7b502f432117",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "12. Licensee shall enforce the following rules in organization for implementing password policy:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7f23854478d1f19a6ec295ebc74b2874",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(i) Password shall be at least ten (10) characters long.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "da2fc39328698b607bd233bd81693d6c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(ii) Password shall include combination of upper case- and lower-case alphabets, numbers and special characters.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b4eb0628119456924de4709827d0dae1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(iii) Password shall not be same as user name.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b46f156f08f2f45ba1922e576921b9fa",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(iv) Password shall not be a dictionary word.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "19dae19af651c2f506af4c93e251a83d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(v) Password does not contain any identical characters next to each other",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "281f05e028b7ae9efab844b40cfe9f86",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(vi) Same Passwords shall not be used for multiple accounts in different platforms.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0659080939e75f9fba4a88e19d99fc5f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(vii) Passwords shall be reused within a predetermined time period.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "bcff0b75038f1f7c84f3b54b846b3af4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(viii) The default password on the device shall be changed from the default to an alternative strong password.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f55381e496f64ea729cbd9b059309e76",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(ix) Passwords shall be changed after every ninety (90) days periodically.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c739b45afebcd6bc2aba1a3e194401e9",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(x) Already used passwords shall not be used while changing passwords.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1738e7ec4095e1ea100141cc2246527e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "13. Licensee shall a ct proactively as a first line of defense to protect their customers from known attacks and for this they shall",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7562419bcb0ea5d3ff608326545b6a6f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4,
+            "parent_id": "884a4a6d7674978d2d0048eac46cf728"
+        },
+        "text": "(i) Recommend tools/solutions (may include Anti-virus, antispyware, anti spam, malware protection, firewall provision, advise on backup of data, identity protection etc) to protect from the possible threats via available means of communication.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c25ad9125a53d104988dd9f388e72bb8",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 4
+        },
+        "text": "Page 4 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "fe587e54290911cf2fdae77a7922f501",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "63da4def085f333c3686fdad53e9a8c5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "(ii) Detect threats/malware/botnets based on IP addresses of customers and inform them for cleaning their devices.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1aee0c789c23a267d722b63d9618af97",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "14. Licensee shall use commercial licensed Operating System (OS), applications, antivirus/antimalware used in Servers, Desktop, Laptop and Mobile devices etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "665dea42cb86d1d9fa1f4717c95d1318",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "15. Licensee shall follow the common best security practices defined by SANS, CIS etc. while using open source such as GNU General Public License, BSD license for operating system, applications, antivirus/antimalware etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "52cfc1930890f4549955ee679705834c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "16. Licensee shall perform regular update of Antivirus, Database, Application Libraries, Operating System, Kernel etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2fdc44df5b22e022d70539b55744a577",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "17. Licensee shall restrict default login for any applications, systems or software.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e74214633c4c0d5c02ac37c699f9251d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "18. Licensee shall make provision for closing all hardware ports (including USB, CD/DVD and External Devices) of the devices (servers) for discouraging copying files directly and use alternative methods of sharing files like file server.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7c01ca6a5bf5af20ed104121af866cf6",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "19. Licensee shall make provision for using Centralized Authentication System like Active Directory (AD), Light Weight Directory Access Protocol (LDAP) for AAA of its employees.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "686a34e20f6b6c07af66b9c1a1ce08af",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "20. Licensee shall be encouraged to use PGP/Digital signature in email communications, documents, letters and other applications.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6afc36ad57557865d6537476184acc41",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "21. Licensee shall bind manufacturers/vendors/suppliers of hardware, software and related infrastructure to patch the vulnerabilities ensuring minimum level of security.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "30b28dfdb2725debe0f5afa595cbc4e2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "22. Licensee shall make use of national and international cyber risk information sharing platform to receive and share information regarding security issues, vulnerabilities, and cyber threat intelligence.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0448dfe1cedccb4a5051707c5148d566",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "23. Licensee shall have its board approved disaster recovery and Business Continuity Policy/Procedure/Plan (BCP) to counteract interruptions to business activities and to protect critical business processes from the effects of major failure or disaster:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "690a6b86d2b5915e53f913a010d4ea42",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "(i) Redundancy and fault tolerance shall be built into the systems to minimize the impact of attacks and data corruption.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "565d938f1063b44de7fc2c452526bd29",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "(ii) The BCP shall contain identification of attacks and security breaches, incident response plan, communication plan and escalation matrix.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c8402386aa3a91a99cb7919e01c01230",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "(iii) The BCP shall contain offsite location for backups and disaster recovery.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "48a30b94a3b698700269fbf566c1d088",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "24. Licensee shall establish security perimeters to protect physical and IT assets. Licensee shall establish protected entry controls, such as the followings, to ensure that only authorized personnel are allowed access:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ea29a0512a44a2615962b1b7b4a0ca20",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5,
+            "parent_id": "fe587e54290911cf2fdae77a7922f501"
+        },
+        "text": "(i) Badges,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8cc55f2ce349db81c43fa7c6ac009e07",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 5
+        },
+        "text": "Page 5 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "af3040ea14f9b02a513745f39aa8d49d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(ii) Limited access to buildings,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f88e1fbc645e28eb40d8b6482f09f218",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(iii) Guards on entrance doors,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "93ceb85fa55f349db10c9dc09bd6b6cc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(iv) Properly secured and tamper proof wiring,",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ce4541aa939bfb5cc4f39e6558b2dd48",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "(v) Alarm doors.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "62093e294faf849df81a40bc87199f41",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "341538371143977796c12eb1917e548d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "Chapter-3 Provisions Relating to Infrastructure/Network Security",
+        "type": "Title"
+    },
+    {
+        "element_id": "035c686980d3ec3321d967dbac259601",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "25. Licensee shall use DDoS Detection and Mitigation system to avoid possible DDoS attack on the network infrastructure.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "21db9d18824a43f99fda167ed1ec3681",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "26. Licensee shall have Flow Analyzer which shall be continuously monitored for threat intelligence (threat detection and alarming).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0cea770d9eb3be88a7c852de8e6a1d97",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "27. Licensee shall strictly use secure Virtual Private Network (with IPSec or SSL) when accessing the system remotely.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "314603abc9427dadf003fe9c4a5cac0c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "28. Licensee shall map and analyze organizational communication and data flows for possible security threats.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a07dea11d49064382930a793e9e0546e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "29. Licensee shall deploy Mutually Agreed Norms for Routing Security (MANRS).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "11b86004391f98c9262d286f54dbad8f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "30. Licensee shall have provision to securely authenticate users (2 Factor Authentication/ OTP) and provide encrypted access (IPSec/SSL) to Value Added Service Provider/Third Party into the core system to avoid any security risk.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f01a4678256425f89bc4fa08838c630a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "31",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "a5575a7f16b9a98987b46743253b2767",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "Licensee shall:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "97cdbf224b02e6279aba2eb45fb64704",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(i) Perform Penetration testing of Critical infrastructure regularly.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9fdc3b55a4001dc1e5d8644db70f25c8",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(ii) Identify status of equipment performing vulnerability assessment.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fad715922cf7691ef1187c3df3868784",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(iii) Implement standard security configuration policy on Switches & Routers.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "59c49b657a3eafc4b35d203e8635fdad",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(iv) Isolate and segregate (VLAN) the networks based on needs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "43efff012502f94c06516c5e54625556",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "32. Licensee shall routinely assess their suppliers/third-party partners using audits, test results, or other forms of evaluations to confirm they are meeting their contractual security obligations.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9d2ab199c5eb5130701cc0255b73ebff",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "33. Licensee shall implement Wireless Local Area Network (WLAN) security standards like WPA-2/3.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e7f92b55bc6b40c9b80455e5169738a9",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "34. Licensee shall have Network Firewall and following shall be implemented:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f6f8afa0bb4569a93c6a2b3e43743b68",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(i) Firewall shall protect their internal network and devices against unauthorized access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b952e361ce93699038c9ada296a24828",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(ii) Each rule set on the firewall must be approved by an authorized individual and documented including an explanation of the business need of this rule.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7b9cf5476c0e6fa0a4f74a2a8dd4aceb",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6,
+            "parent_id": "341538371143977796c12eb1917e548d"
+        },
+        "text": "(iii) Unapproved or vulnerable services should be blocked at the gateway firewall.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "619ce85419a229eead726a0d37e4e38a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 6
+        },
+        "text": "Page 6 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "7bfa477aa7938883d4c78b56ef4e09bf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "ad5b03b54cd9da35cfaafd380da78d9d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(iv) Any permissive firewall rules that are no longer required should be disabled as soon as possible.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "487ad743bb4812f853f922f736c1c1e0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(v) The firewall\u2019s boundary administration settings should not be accessible from the internet.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "414f7147cb09266a9f03fddf17e50ce5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "35",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "1cb1b79082fbe6abc00b283b5d5dcf87",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "For secure Network, licensee shall adopt following security measures.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2b56046e201a370048a050593db17d64",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(i) All unnecessary user accounts, guest or admin accounts shall be removed or disabled.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d6d7d6b9fd5f3fdbc2ad37277db3c765",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(ii) All network infrastructure configurations shall be automatically backed up.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "694be363ed28f316d70c92a5468d5bad",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(iii) All auto-run and unused features shall be disabled.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ceeea2518090131d4907d6fed827f32f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "(iv) Rogue Endpoints must be isolated.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "815f063919fac84231d9f58d5a4a2092",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "7bfa477aa7938883d4c78b56ef4e09bf"
+        },
+        "text": "36. Licensee shall ensure implementation of minimum set of configurations for hardening network and infrastructure identified in different standards like CIS, ISO, SANS, COBIT etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c17b847562b4ec417b0d51c0b41ce63f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "Chapter-4 Provisions Relating to Core System Security",
+        "type": "Title"
+    },
+    {
+        "element_id": "a64c8bf1792b641caaa6b8d054a30bde",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "37. Licensee shall use Next Generation Firewall to protect Core Service System from any form of vulnerability and attack and shall restrict access to default login.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8dfdee4175a7f6736e53c92892a85a96",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "38. Licensee shall frequently revisit and update firewall policy, close unnecessary ports, define max-failed-tries-within-time-limit for saving from Brute-force attack on Remote-access ports.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8487e45056b298538d8f41d0f85ad947",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "39. Licensee shall have provisions for IP block listing/allow listing, Port-Knocking based on needs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d3d680bebef468c290d4ae4ce4d85342",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "40. Licensee shall have its public facing systems and services in public Demilitarized Zone (DMZ) to protect the hosts most vulnerable to attack.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "622d3f2eab80ad04c9d16960477d304e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "41. System clocks of all information processing system within the organization or security domain shall be synchronized with an NTP Server with time zone Nepal Standard Time (GMT+5:45).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a1179883458e56070db5c3c635f53f79",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "42. Licensee shall use DNSSEC in their authoritative DNS Server.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f35c7186531d9b29c52040c70d040757",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "43. Licensee shall adopt best security practices for proper configurations in mail server, DHCP server etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "42924093103d98ad09d4c02d8d3491cf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7,
+            "parent_id": "c17b847562b4ec417b0d51c0b41ce63f"
+        },
+        "text": "44. Licensee shall comply following provisions related to log records:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "00bb7a92b81ee3804e2675713e1cd3d8",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 7
+        },
+        "text": "Page 7 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "d437e141b1d6c5ac736887e221e75d65",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "c9db31e73a5337aee32ce2d6723be366",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "d437e141b1d6c5ac736887e221e75d65"
+        },
+        "text": "(i) Store Critical System logs such as user\u2019s activity logs (e.g. log in/out time, login period, access logs, functions performed etc.) and System/Applications event and error logs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fdb4bddf6c03b9f4e41574f767e48b04",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "d437e141b1d6c5ac736887e221e75d65"
+        },
+        "text": "(ii) All security related logs shall be retained for at least six months and Internet NAT logs shall be retained for at least three months or as per the directives issued by NTA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e59108e7c08ffd886aac12b9d4b43815",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "d437e141b1d6c5ac736887e221e75d65"
+        },
+        "text": "(iii) Logged activities are reviewed and analysed on regular basis.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8494c1446777dd1f19a64f54013c505e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "d437e141b1d6c5ac736887e221e75d65"
+        },
+        "text": "(iv) Logging facility and log information are well protected against tampering and unauthorized access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1f72b99a972bde40a9ed33bd61c2b22f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "Chapter-5 Provisions Relating to Application Security",
+        "type": "Title"
+    },
+    {
+        "element_id": "ed00c8f85a01f8a4f57a82a12727f9ad",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "1f72b99a972bde40a9ed33bd61c2b22f"
+        },
+        "text": "45. Licensee shall adopt secure software development methodology when developing any software so that security requirements like Capability Maturity Model Integration (CMMI), Open Web Application Security Project (OWASP), Centre for Internet Security (CIS), SANS Institute, Microsoft threat modeling etc. are complied from an early stage.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b1909d5f2157457857ae96f53a91c01a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "1f72b99a972bde40a9ed33bd61c2b22f"
+        },
+        "text": "46. Licensee shall use OTP (One Time Password) or other form of authentication (2- Factor Authentication and Non-Trivial Password Policy) in Mobile Based Applications (Mobile Apps) to avoid any identity theft attacks.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "960872d66e02e27c6952a0747369b455",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "1f72b99a972bde40a9ed33bd61c2b22f"
+        },
+        "text": "47. Licensee shall use applications and software which must be licensed by respective application and software providers.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "50cbc2b80ccf419c9c6bd351e1124b79",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "1f72b99a972bde40a9ed33bd61c2b22f"
+        },
+        "text": "48. Licensee shall use SSL (Secure Socket Layer) /TLS (Transport Layer Security) in their web applications/portals.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b85e42be219ee55ed04e7b0e333c338a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "1f72b99a972bde40a9ed33bd61c2b22f"
+        },
+        "text": "49. Licensee shall ensure that the applications (web/mobile applications) are thoroughly tested for security vulnerabilities before its deployments.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7f6dd169c38c41077d5baaf84eef7370",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "Chapter-6 Provisions Relating to Data Security/Privacy",
+        "type": "Title"
+    },
+    {
+        "element_id": "05e0bde388a23c7a0a8802f12ad6e11d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "Provisions Relating to Data Security/Privacy",
+        "type": "Title"
+    },
+    {
+        "element_id": "df54aaeaa99a85dc8be8d304c86e31e7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "05e0bde388a23c7a0a8802f12ad6e11d"
+        },
+        "text": "50. Licensee shall apply encryption techniques for data in transit.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a80842b4f47ed11dce943bfa4d627070",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8,
+            "parent_id": "05e0bde388a23c7a0a8802f12ad6e11d"
+        },
+        "text": "51. Licensee shall adopt data masking or anonymizing techniques or encryption for customer data at rest. Licensee shall use Hash/Encryption to store sensitive data.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "df432dcc467e46c6e2b28c0a6eb8099b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 8
+        },
+        "text": "Page 8 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "384093f8613122b954a3ee9e4a5b03ea",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "ddfa6b6f179f5a78211bf4a228205a25",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "384093f8613122b954a3ee9e4a5b03ea"
+        },
+        "text": "52. Licensee shall have Non-Disclosure Agreement with employee, vendor or any other third party for prohibition of copying, reproducing, distributing or selling of licensee\u2019s digital data without the consent of licensee. The customer\u2019s digital data shall not be shared to vendor or any other third party without the consent of the customer, except in the case of Government Law Enforcement Agencies.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f254de818b45ee8d32e393297f30cce2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "Chapter-7 Provisions Relating to Information System (IS) Audit",
+        "type": "Title"
+    },
+    {
+        "element_id": "02ecbeb12a4dd3a2e523118cd3000075",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "f254de818b45ee8d32e393297f30cce2"
+        },
+        "text": "53. Licensee shall have internal security audit team for regular network / System / Critical infrastructure audit and submit the security audit report to the authority in every six (6) months.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7422c9ae807749664b411a3633a57cff",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "f254de818b45ee8d32e393297f30cce2"
+        },
+        "text": "54. Licensee shall perform penetration testing and vulnerability assessment in every three (3) months and perform required rectifications.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9411a066b39655c8758c2981d37d51a1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "f254de818b45ee8d32e393297f30cce2"
+        },
+        "text": "55. Licensee shall perform Information System (IS) audit annually to verify compliance as per the clauses of this Byelaw from NTA or the Government of Nepal designated IS Auditor(s). A security audit will require security policy and standards, audit checklists and an inventory list as indicated in areas such as web application, network architecture, wireless communication, etc. as per this byelaw. Annex-1 , which may cover different",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "18acaebe2ce4b75e47366fbb797ef613",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "f254de818b45ee8d32e393297f30cce2"
+        },
+        "text": "56. Licensee shall rectify the vulnerabilities and gaps identified by the IS Auditors in their audit reports at the soonest.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "15bf5ec081cdc1513804e5327a0271ae",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "Chapter-8 Provisions Relating to Cloud Security",
+        "type": "Title"
+    },
+    {
+        "element_id": "ca1637b9f02f64c5d0b1e5644a7b44fe",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "15bf5ec081cdc1513804e5327a0271ae"
+        },
+        "text": "57. The licensee shall adopt following cloud security related measures when they are providing cloud services.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b7ee7b9b2e7464d89b4c3b74c0daaaaf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "15bf5ec081cdc1513804e5327a0271ae"
+        },
+        "text": "(i) Cloud control matrix and zero trust policy (cloud) to be defined.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "cc995e2f732141fb403e2b277eccd5b8",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "15bf5ec081cdc1513804e5327a0271ae"
+        },
+        "text": "(ii) Cloud Service provider should have SLA (Service Level Agreement) and NDA (non-disclosure agreement) with its client.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2485e0c8da308808a98a64ac10c0ed51",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9,
+            "parent_id": "15bf5ec081cdc1513804e5327a0271ae"
+        },
+        "text": "(iii) IAM (Identity and Access Management) has to be used to ensure that it can be configured who is who, who is authenticated, and what devices, applications, or data they can access.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e31875a87ecf577fca0f9a977d6ceeac",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 9
+        },
+        "text": "Page 9 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "b666c24bf876edf5f3d0467c49c7fc72",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "cf974485b580c1f43dbc61ba838f7c6b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "b666c24bf876edf5f3d0467c49c7fc72"
+        },
+        "text": "(iv) Cloud service is being audited annually by Cloud Auditor(s) designated by NTA or the Government of Nepal.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f7919ee50c0fec367cecf3d8106255ef",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Chapter-9 Provisions Relating to CERT/Incident Response",
+        "type": "Title"
+    },
+    {
+        "element_id": "74800885763586e007059af606e4041f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "58. Licensee shall form Incident Response team/CERT.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "45366776a3aaeda2d1320d5658da76b4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "59. Licensee shall have its approved emergency incident response plans and measures, including communication plans, to handle incidents.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1633750231b471bc14731fab730ffe30",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "60. (i) In case of any security incidents, the licensee shall co-ordinate and work in close co-operation with the task-force of NTA, comprising the following members to minimize the loss and identify the source of attack or threat.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "d8a9a4b8b1deaa29f4585ee6e5dc30a7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(1) Director, Monitoring Division of NTA ------ Coordinator",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9633e1728743615e327e5b29ec13952a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(1) Director, Monitoring Division of NTA ------ Coordinator",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a5d6d464b53b8e62827033570f847f10",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(2) Deputy Director, Frequency, QoS and Service Delivery Monitoring Section",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dbd3583798e668abb59a0e800d8a7eea",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "JR\u2014",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "aaa56a712944dc2adc97898464221d38",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ff47e6b9b3b057dc29abe2802531ffb7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(3) Deputy Director, Technology Research and Development Section",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6939f801d2947643143527fa1d729527",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "JR\u2014",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "6b472efa0493d181c7a29957a6e856e5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e427457b7e8de9a0bd3017da52f0bb9b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(4) Assistant Director, Technology Research and Development Section",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8fc28560d0c6be5502b702621fd83417",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "JR\u2014",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ed2407aa1b36f7f5807b53d9057aebae",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2d2d83b4d975e830be537cf73780ea2b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "f7919ee50c0fec367cecf3d8106255ef"
+        },
+        "text": "(5) Assistant Director, Frequency, QoS and Service Delivery Monitoring Section",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "37bc68de02ddcf10c76fe9bf133b2a34",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": ". ------ Member Secretary",
+        "type": "Title"
+    },
+    {
+        "element_id": "c3dbacf3812183943d30f43d2cecd742",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Secretary",
+        "type": "Title"
+    },
+    {
+        "element_id": "9eab8f834bb74e5fd8d1f0ae4e5c31b2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c3dbacf3812183943d30f43d2cecd742"
+        },
+        "text": "(ii) The roles, responsibility and authority of the task-force will be as defined by NTA.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "55185bd2948f2b368a4fb5f7f06acbde",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c3dbacf3812183943d30f43d2cecd742"
+        },
+        "text": "(iii) The task-force can hold meetings and invite ICT security expert(s) in the meetings to discuss and resolve the security related issues.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1bed7c850951edc25a01c7ddee63da92",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c3dbacf3812183943d30f43d2cecd742"
+        },
+        "text": "61. (i) The above task-force shall report to a high level Steering Committee of NTA, comprising the followings, on ICT security relates issues:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3a42db33ed9f123e946907595e93e582",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "c3dbacf3812183943d30f43d2cecd742"
+        },
+        "text": "(1) Chairman of NTA",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "510418cc2db20e9b241a0258a30b7a2d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "------ Chairman",
+        "type": "Title"
+    },
+    {
+        "element_id": "afdc7bd0b42c364ba1d1ea83ab91dca0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "510418cc2db20e9b241a0258a30b7a2d"
+        },
+        "text": "\u2014\u2014-",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "11e1b02b83292596feceee6ef8137446",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "510418cc2db20e9b241a0258a30b7a2d"
+        },
+        "text": "Chairman",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3e2afd2bc9459267c6cb30477f635aba",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "510418cc2db20e9b241a0258a30b7a2d"
+        },
+        "text": "(2) Technical Member of NTA",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "96b909dee7a06288b82c51f186fbb444",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "------ Member",
+        "type": "Title"
+    },
+    {
+        "element_id": "777cd2090678e5cfd97eb4d34293323d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "96b909dee7a06288b82c51f186fbb444"
+        },
+        "text": "\u2014\u2014\u2014\u2014 Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f2bf08059d0c1063df66af451bb6d0e0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "96b909dee7a06288b82c51f186fbb444"
+        },
+        "text": "(3) ICT Security Expert, nominated by Chairman ------ Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3a478abeb5fdac99df174f8701a22990",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "JR\u2014 Member",
+        "type": "Title"
+    },
+    {
+        "element_id": "4ebf74f3034a927fb1e88b6c094f0cc2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "3a478abeb5fdac99df174f8701a22990"
+        },
+        "text": "(4) Director, Infrastructure Division",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0b43e9740e575a5b10b21447340ec928",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "3a478abeb5fdac99df174f8701a22990"
+        },
+        "text": "\u2014\u2014\u2014",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "e30cd3008d2c2a089f1faa9e1ef88a68",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "3a478abeb5fdac99df174f8701a22990"
+        },
+        "text": "Member",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e898aed5d864acd92762b8f85291452d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "3a478abeb5fdac99df174f8701a22990"
+        },
+        "text": "(5) Director, Monitoring Division",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a23f91dd9661926df830fad15ce7d532",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "------ Member Secretary",
+        "type": "Title"
+    },
+    {
+        "element_id": "0e19cdbb8bf1200eedd22c16826e76ee",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "a23f91dd9661926df830fad15ce7d532"
+        },
+        "text": "\u2014\u2014\u2014",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "880acc75ce8e60f1312196e6b80630ba",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "a23f91dd9661926df830fad15ce7d532"
+        },
+        "text": "Member Secretary",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b94e11b41bd6d01c87a433ba4aa3e06a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10,
+            "parent_id": "a23f91dd9661926df830fad15ce7d532"
+        },
+        "text": "(ii) The high level Steering Committee can hold meetings as and when necessary.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca4d14b4e638e24f56983b8341f5f7d2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 10
+        },
+        "text": "Page 10 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "f88cba40cce004851a9e23ad6f2fca7d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "cac7f321449e96fa3741209cf5fee1e4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "f88cba40cce004851a9e23ad6f2fca7d"
+        },
+        "text": "62. The above high level Steering Committee shall issue directives or provide proper guidelines to the task-force. This high level committee shall also recommend to NTA board for making policy decisions on overall ICT security related issues.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "b9e0995eb7d2a67fa1828cd71cfe55f6",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "f88cba40cce004851a9e23ad6f2fca7d"
+        },
+        "text": "63. NTA shall develop Information Sharing Platform and Licensees shall make use of the Information Sharing Platform provided by NTA for incidents, threats and possible remedies.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6d3bdf7da66cb71c8da052e50633f070",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11
+        },
+        "text": "Chapter- 10 Provisions Relating to Security Operations Centre (SOC)",
+        "type": "Title"
+    },
+    {
+        "element_id": "50640cedff146908dcb6bd7aac3627b0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "6d3bdf7da66cb71c8da052e50633f070"
+        },
+        "text": "64. Licensee shall have dedicated in-house Security Unit/Operation Centre with adequate number of security professionals.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "81c7b5c68e6912f462b8cb55b43be5b7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "6d3bdf7da66cb71c8da052e50633f070"
+        },
+        "text": "65. All the security alerts and events must be logged and monitored 24x7 to avoid any severe impact on the service and business by Security Unit/Operation Centre.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "dec640ce80c856b358e03ead97c228df",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "6d3bdf7da66cb71c8da052e50633f070"
+        },
+        "text": "66. Licensee shall have systems like Security Information and Event Management (SIEM) for handling of security events and logs that are generated by multiple systems.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "34257a3e5a187a8eec96123ab169545e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "6d3bdf7da66cb71c8da052e50633f070"
+        },
+        "text": "67. The Security Unit shall take all the possible preventive measure based on security logs and events to avoid attacks.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2b0632ce45097eda40e7c1d278c9d8f4",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "6d3bdf7da66cb71c8da052e50633f070"
+        },
+        "text": "68. Licensee shall create knowledge based database of detected threats and malware information.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ef2b5ba193e9d59796355d5f5800b323",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11
+        },
+        "text": "Chapter-11 Provisions Relating to Cyber Security Awareness & Capacity Building",
+        "type": "Title"
+    },
+    {
+        "element_id": "cc2961d60bf8ff45d227b3d8760c7bdc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11
+        },
+        "text": "Provisions Relating to Cyber Security Awareness & Capacity Building",
+        "type": "Title"
+    },
+    {
+        "element_id": "195a1c1100d576234c01b3673d62097e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "69. Licensee shall conduct security awareness programs for its employees and relevant stakeholders.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0a05d6ccc6adde44e9bc61a9ee2a8b13",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "70. Licensee shall design and execute capacity building program related to cyber security to enhance employee\u2019s security skills.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1fcb03879133c15b90152cb990472636",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "71",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "68da1e5597c9745db20066cccabb8db0",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "to raise awareness and understanding of threats and support consumers in protecting themselves and their networks as follows:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "13f585315074d9ab444f661f09b8b7e3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "(i) Awareness through websites/portals for practicing safe online behavior.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "33bc4a9bccd811f4e462c99025b09ee3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "(ii) Collaboration with other entities/organizations for awareness and education.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3247a52669a7441461e6121b18168547",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "(iii) Conducting workshop/seminars/training/interaction programs to educate customers/users on ICT security related mattes e.g. the importance of use of licensed software, updating and patching operating systems and applications etc.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "58dbf0c9a293ff863d51e6da2ea8203e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11,
+            "parent_id": "cc2961d60bf8ff45d227b3d8760c7bdc"
+        },
+        "text": "(iv) Adopting any other methods as appropriate and necessary.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ce2bf1d842a57eae2dbcdc8519c527fc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 11
+        },
+        "text": "Page 11 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "dc91e2ddb67e6f79c31402ea28750274",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12
+        },
+        "text": "Cyber Security Byelaw, 2077",
+        "type": "Title"
+    },
+    {
+        "element_id": "1932a5a083ac9dc99c5452a65b4bd219",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12
+        },
+        "text": "Chapter-12 Miscellaneous",
+        "type": "Title"
+    },
+    {
+        "element_id": "985827b7c479f9fd9e124681956ee5cf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "1932a5a083ac9dc99c5452a65b4bd219"
+        },
+        "text": "72. This byelaw shall be revised regularly as per requirement.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fe19fa6a6e9476bcd1730bb41475929b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12,
+            "parent_id": "1932a5a083ac9dc99c5452a65b4bd219"
+        },
+        "text": "73. In case of any disputes of the meaning of the sentence(s), or words, NTA decision will be final for interpreting the meaning.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a7974c1fa35c7e0d2469c203d28c6b69",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 12
+        },
+        "text": "Page 12 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "74c96ad05c92e233dd3148272fd15c4f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "af5002896ae7b21437ebaae5bb3bd43c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "f7138d50a57f14bfd7270ad1a12320dc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "Information System (IS) Audit Checklist",
+        "type": "Title"
+    },
+    {
+        "element_id": "8b8a96465a2e7806ee3b4d6da6800a42",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "Related to byelaw no. 55 of Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "a6c54d171ef941fe180e3f9be45de19c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "8b8a96465a2e7806ee3b4d6da6800a42"
+        },
+        "text": "(Illustrated below are items to be checked in a security audit in compliance and best practice perspective. This checklist may not cover all aspects, but rather acts as a preliminary reference.)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "be13aaf8bfd56c10bda1d52e87ac3490",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "8b8a96465a2e7806ee3b4d6da6800a42"
+        },
+        "text": "Auditor's Name: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f0a34ceba0c87f1091db205c6f18ab62",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "Audit Date:\u2026\u2026\u2026\u2026\u2026",
+        "type": "Title"
+    },
+    {
+        "element_id": "096b6b286a5449d6e0aad1c9fe888e23",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "f0a34ceba0c87f1091db205c6f18ab62"
+        },
+        "text": "Audit Date:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a76053c514918026b1902a10a55778cb",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "teceececncncnane",
+        "type": "Title"
+    },
+    {
+        "element_id": "e51a7275ec5b653ce2a7c9799da58540",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "a76053c514918026b1902a10a55778cb"
+        },
+        "text": "Organization Name:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "939640769b2677199ea40b6f2a00fb9b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "eetctctctcscscscscstctcccectcncncane",
+        "type": "Title"
+    },
+    {
+        "element_id": "92e44564d2507e0284817e9ec8de3fca",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "939640769b2677199ea40b6f2a00fb9b"
+        },
+        "text": "Contact Details (Address, Phone):\u2026\u2026\u2026\u2026\u2026\u2026..",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "127b990afa9e70b487538e2e6484910d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "af5002896ae7b21437ebaae5bb3bd43c"
+        },
+        "text": "teceectcccncncnanenes",
+        "type": "Title"
+    },
+    {
+        "element_id": "2c17fcd8cb4ee85cf540573da3a15363",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13,
+            "parent_id": "127b990afa9e70b487538e2e6484910d",
+            "text_as_html": "<table><thead><tr><th>Byelaws No. No.</th><th>Audit Question/Description Findings \n Compliance</th><th>Findings</th><th>Compliance</th><th>| Remarks</th></tr></thead><tbody><tr><td colspan=\"5\">Chapter-2, Provisions Relating to General Security Standards and Practices</td></tr><tr><td>3. 3.</td><td>Whether the licensee have updated recorded copy of document where all its technological assets like hardware, software, and license are managed and segregated as per criticality, usage, location, versions, owner, purchase date, update date like details. Whether</td><td></td><td></td><td></td></tr><tr><td>4. 4.</td><td>(i) Whether there exists board approved ICT Security policies for planning, organizing, directing, controlling and monitoring of information management systems. (ii) Whether these ICT Security Policies are applied/ executed for efficient and effective management of People, Process and Technology.</td><td></td><td></td><td></td></tr><tr><td>5. 5.</td><td>Whether the Licensee has reviewed ICT Security Policies at least once a year or more frequently as per the need or as per major changes in organizational structure, infrastructure or process.</td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        "text": "Byelaws Audit Question/Description Findings Compliance No. Chapter-2, Provisions Relating to General Security Standards and Practices 3. Whether the licensee have updated recorded copy of document where all its technological assets like hardware, software, and license are managed and segregated as per criticality, usage, location, versions, owner, purchase date, update date like details. 4. (i) Whether there exists board approved ICT Security policies for planning, organizing, directing, controlling and monitoring of information management systems. (ii) Whether these ICT Security Policies are applied/ executed for efficient and effective management of People, Process and Technology. 5. Whether the Licensee has reviewed ICT Security Po licies at least once a year or more frequently as per the need or as per major changes in organizational structure, infrastructure or process. Remarks",
+        "type": "Table"
+    },
+    {
+        "element_id": "9e671268d136a840237a3e8f459dfc70",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "Page 1 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "872c98f2387fc7f57c16166ac322f094",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 13
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "739cdc3c14c7c23f28f2fdcf9fded24f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "7a232b9a50c38c868623a07634fb5f73",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "1356ba6edbd2c05b057f271daa277300",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "7a232b9a50c38c868623a07634fb5f73",
+            "text_as_html": "<table><tbody><tr><td>6. 6.</td><td>Whether the Licensee has clearly defined and updated organogram with roles and responsibilities for its personnel (system operators, system developers, network administrators, information owners, security officers, users etc.), and whether they are reviewed periodically.</td></tr><tr><td>7. 7.</td><td>Whether the Licensee has employees' related policy addressing the following items (i) Proper handling of social media, (ii) Usage of Official Devices, (iii) Usage of Personal devices and (iv) Proper handling of official emails/accounts and information.</td></tr><tr><td>8. 8.</td><td>(i) Whether the Licensee has provision for access control and proper segregation of dedicated computing environment for highly sensitive systems. (ii) Whether Access controls have been configured to ensure that users are restricted to Read, Write, Execute, Delete based on the organizational information access policy.</td></tr><tr><td>9. 9.</td><td>Whether the Licensee has promoted information security awareness throughout the organizations and arranged training and education to ensure that all related parties understand the risks, observe the security regulations and requirements, and confirm to security best practices.</td></tr><tr><td>10. 10.</td><td>Whether the Licensee has adopted risk-based approach to identify, prioritize and address the security risks and consequences associated with vulnerabilities of information systems in a consistent and effective manner and determine the mitigation measures to reduce the risks to an acceptable level.</td></tr><tr><td>1 11.</td><td>Whether the Licensee has provisions for User Account and in general comply with the followings: (i) All user accounts and their privileges subject to an approval process and documented. (ii) Admin privileges and any other special access privileges restricted to authorized individuals and documented. (iii) Admin accounts only used to perform admin tasks and not for everyday access. (iv) Admin accounts set to require a password change in every ninety (90) days or less. ) Every individual user has a unique user name and user account. (vi) Any user account with special privileges or admin rights removed or periodically</td></tr></tbody></table>"
+        },
+        "text": "6. Whether the Licensee has clearly defined and updated organogram with roles and responsibilities for its personnel (system operators, system developers, network administrators, information owners, security officers, users etc.), and whether they are reviewed periodically. 7. Whether the Licensee has employees' related policy addressing the following items (i) Proper handling of social media, (ii) Usage of Official Devices, (iii) Usage of Personal devices and (iv) Proper handling of official emails/accounts and information. 8. (i) Whether the Licensee has provision for access control and proper segregation of dedicated computing environment for highly sensitive systems. (ii) Whether Access controls have been configured to ensure that users are restricted to Read, Write, Execute, Delete based on the organizational information access policy. 9. Whether the Licensee has promoted information security awareness throughout the organizations and arranged training and education to ensure that all related parties understand the risks, observe the security regulations and requirements, and confirm to security best practices. 10. Whether the Licensee has adopted risk -based approach to identify, prioritize and address the security risks and consequences associated with vulnerabilities of information systems in a consistent and effective manner and determine the mitigation measures to reduce the risks to an acceptable level. 11. Whether the Licensee has provisions for User Account and in general comply with the followings: (i) All user accounts and their privileges subject to an approval process and documented. (ii) Admin privileges and any other special access privileges restricted to authorized individuals and documented. (iii) Admin accounts only used to perform admin tasks and not for everyday access. (iv) Admin accounts set to require a password change in every ninety (90) days or less. (v) Every individual user has a unique user name and user account. (vi) Any user account with special privileges or admin rights removed or periodically",
+        "type": "Table"
+    },
+    {
+        "element_id": "0fdd10ba3566d04dd9f66a0e4f2c62cc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "7a232b9a50c38c868623a07634fb5f73"
+        },
+        "text": "Page 2 of 12",
+        "type": "Title"
+    },
+    {
+        "element_id": "029dc0f93cd3c3501d7706b5967885ac",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 14,
+            "parent_id": "7a232b9a50c38c868623a07634fb5f73"
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "4248af4a4d13774ff380fd0df6c50383",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "7a232b9a50c38c868623a07634fb5f73"
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "9abc909033f81dca56d7a350283cbfd5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "1422e2c11bf0c2335802b81a7af674f5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15,
+            "parent_id": "9abc909033f81dca56d7a350283cbfd5",
+            "text_as_html": "<table><thead><tr><th></th><th></th><th>disabled when no longer required or if the individual changes role or leaves the organization or after a predefined length of inactivity e.g. if the account is not used for ninety(90) days then it is disabled.</th><th></th></tr></thead><tbody><tr><td>12 12.</td><td>Whether the policy: (i) (ii) (iii) (iv) ) (vi) (vii) (vii) (ix) (x)</td><td>Licensee has enforced the following rules in organization for implementing password Password at least ten (10) characters long. Password includes combination of upper case- and lower-case alphabets, numbers and special characters. Password not same as user name. Password not a dictionary word. Password does not contain any identical characters next to each other Same Passwords not used for multiple accounts in different platforms. Passwords reused within a predetermined time period. The default password on the device changed from the default to an alternative strong password. \n Passwords changed after every ninety (90) days periodically. Already used passwords not used while changing passwords.</td><td></td></tr><tr><td rowspan=\"3\">13, 13.</td><td>(i) Whether known attacks,</td><td>the Licensee act proactively as a first line of defense to protect their customers from</td><td></td></tr><tr><td>(ii) Whether</td><td>the license</td><td></td></tr><tr><td>(i) (ii)</td><td>Recommend any tools/solutions (may include Anti-virus, antispyware, anti spam, malware protection, firewall provision, advise on backup of data, identity protection etc) to protect from the possible threats via available means of communication. Detect threats/malware/botnets based on IP addresses of customers and inform them for cleaning their devices.</td><td></td></tr></tbody></table>"
+        },
+        "text": "disabled when no longer required or if the individual changes role or leaves the organization or after a predefined length of inactivity e.g. if the account is not used for ninety(90) days then it is disabled. 12. Whether the Licensee has enforced the following rules in organization for implementing password policy: (i) Password at least ten (10) characters long. (ii) Password includes combination of upper case- and lower-case alphabets, numbers and special characters. (iii) Password not same as user name. (iv) Password not a dictionary word. (v) Password does not contain any identical characters next to each other (vi) Same Passwords not used for multiple accounts in different platforms. (vii) Passwords reused within a predetermined time period. (viii) The default password on the device changed from the default to an alternative strong password. (ix) Passwords changed after every ninety (90) days periodically. (x) Already used passwords not used while changing passwords. 13. (i) Whether the Licensee a ct proactively as a first line of defense to protect their customers from known attacks, (ii) Whether the license (i) Recommend any tools/solutions (may include Anti-virus, antispyware, anti spam, malware protection, firewall provision, advise on backup of data, identity protection etc) to protect from the possible threats via available means of communication. (ii) Detect threats/malware/botnets based on IP addresses of customers and inform them for cleaning their devices.",
+        "type": "Table"
+    },
+    {
+        "element_id": "afd3dcd4fed69c3809750166fa340ed9",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15
+        },
+        "text": "Page 3 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "2d8c20c132ce44bbf008254acb3296ec",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 15
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "131c3f9934b6c3f359dbf26a1e5b0ef3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "4f61e2a1f5488e7706f3587982beecc3",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "edb833542328801e3fa725ebf1becd22",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16,
+            "parent_id": "4f61e2a1f5488e7706f3587982beecc3",
+            "text_as_html": "<table><thead><tr><th>14  \n 14.</th><th>Whether the Licensee has used commercial licensed Operating System (OS), applications, antivirus/antimalware used in Servers, Desktop, Laptop and Mobile devices etc.</th></tr></thead><tbody><tr><td>15 15.</td><td>Whether the Licensee has followed the common best security practices defined by SANS, CIS etc. while using open source such as GNU General Public License, BSD license for operating system, applications, antivirus/antimalware etc.</td></tr><tr><td>16. 16.</td><td>Whether the Licensee has performed regular update of Antivirus, Database, Application Libraries, Operating System, Kernel etc.</td></tr><tr><td>17 17.</td><td>Whether the Licensee has restricted default login for any applications, systems or software.</td></tr><tr><td>18, 18.</td><td>Whether the Licensee has locked all hardware ports (including USB, CD/DVD and External Devices) of the devices (servers) for discouraging copying files directly and use alternative methods of sharing files like file server.</td></tr><tr><td>19 19.</td><td>Whether the Licensee has made provisions for using Centralized Authentication System like Active Directory (AD), Light Weight Directory Access Protocol (LDAP) for AAA of its employees.</td></tr><tr><td>20 20.</td><td>Whether the Licensee has used PGP/Digital signature in email communications, documents, letters and other applications.</td></tr><tr><td>21 21.</td><td>Whether the Licensee bind manufacturers/vendors/suppliers of hardware, software and related infrastructure to patch the vulnerabilities ensuring minimum level of security.</td></tr><tr><td>22 22.</td><td>Whether the Licensee has used of national and international cyber risk information sharing platform to receive and share information regarding security issues, vulnerabilities, and cyber threat intelligence.</td></tr><tr><td>23 23.</td><td>Whether the Licensee has its board approved disaster recovery and Business Continuity Policy/Procedure/Plan (BCP) to counteract interruptions to business activities and to protect critical</td></tr></tbody></table>"
+        },
+        "text": "14. Whether the Licensee has used commercial licensed Operating System (OS), applications, antivirus/antimalware used in Servers, Desktop, Laptop and Mobile devices etc. 15. Whether the Licensee has follow ed the common best security practices defined by SANS, CIS etc. while using open source such as GNU General Public License, BSD license for operating system, applications, antivirus/antimalware etc. 16. Whether the Licensee has performed regular update of Antivirus, Database, Application Libraries, Operating System, Kernel etc. 17. Whether the Licensee has restricted default login for any applications, systems or software. 18. Whether the Licensee has locked all hardware ports ( including USB, CD/DVD and External Devices) of the devices (servers) for discouraging copying files directly and use alternative methods of sharing files like file server. 19. Whether the Licensee has made provisions for using Centralized Authentication System like Active Directory (AD), Light Weight Directory Access Protocol (LDAP) for AAA of its employees. 20. Whether the Licensee has used PGP/Digital signature in email communications, documents, letters and other applications. 21. Whether the Licensee bind manufacturers/vendors/suppliers of hardware, software and related infrastructure to patch the vulnerabilities ensuring minimum level of security. 22. Whether the Licensee has used of national and international cyber risk information sharing platform to receive and share information regarding security issues, vulnerabilities, and cyber threat intelligence. 23. Whether the Licensee has its board approved disaster recovery and Business Continuity Policy/Procedure/Plan (BCP) to counteract interruptions to business activities and to protect critical",
+        "type": "Table"
+    },
+    {
+        "element_id": "f061229297586406435f4a82d40e08d7",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Page 4 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "ffb9aae0109be567e01855ec7ab65d89",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 16
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "c0b7b3692eafd66b7a638138afc9ea0b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "64eeb6e1c9dc4791f087584e49d360b9",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "7e9febf9fd56cecd704b213f5e416e46",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17,
+            "parent_id": "64eeb6e1c9dc4791f087584e49d360b9",
+            "text_as_html": "<table><thead><tr><th colspan=\"3\">business processes from the effects of major failure or disaster:</th></tr><tr><th></th><th>(i) (ii) (iii)</th><th>Redundancy and fault tolerance shall be built into the systems to minimize the impact of attacks and data corruption. The BCP shall contain identification of attacks and security breaches, incident response plan, communication plan and escalation matrix. The BCP shall contain offsite location for backups and disaster recovery.</th></tr></thead><tbody><tr><td>24 24.</td><td>Whether the shall establish personnel are (i) (ii) (iii) (iv) )</td><td>Licensee has established security perimeters to protect physical and IT assets. Licensee protected entry controls, such as the followings, to ensure that only authorized allowed access: Badges, Limited access to buildings, Guards on entrance doors, Properly secured and tamper proof wiring, Alarm doors. Provisions to .</td></tr><tr><td colspan=\"3\">Chapter-3, Relating Infrastructure/Network Security</td></tr><tr><td>25,  \n 25.</td><td>Whether the the network</td><td>Licensee use DDoS Detection and Mitigation system to avoid possible DDoS attack on infrastructure.</td></tr><tr><td>26 26</td><td>Whether the threat intelligence</td><td>Licensee has implemented Flow Analyzer which shall be continuously monitored for (threat detection and alarming).</td></tr><tr><td>27, 27.</td><td>Whether the accessing the</td><td>Licensee strictly used secure Virtual Private Network (with IPSec or SSL) when systems remotely.</td></tr><tr><td>28 28.</td><td>Whether the</td><td>Licensee map and analyze organizational communication and data flows for possible</td></tr></tbody></table>"
+        },
+        "text": "business processes from the effects of major failure or disaster: (i) Redundancy and fault tolerance shall be built into the systems to minimize the impact of attacks and data corruption. (ii) The BCP shall contain identification of attacks and security breaches, incident response plan, communication plan and escalation matrix. (iii) The BCP shall contain offsite location for backups and disaster recovery. 24. Whether the Licensee has establish ed security perimeters to protect physical and IT assets. Licensee shall establish protected entry controls, such as the followings, to ensure that only authorized personnel are allowed access: (i) Badges, (ii) Limited access to buildings, (iii) Guards on entrance doors, (iv) Properly secured and tamper proof wiring, (v) Alarm doors . Chapter-3, Provisions Relating to Infrastructure/Network Security 25. Whether the Licensee use DDoS Detection and Mitigation system to avoid possible DDoS attack on the network infrastructure. 26 Whether the Licensee has implemented Flow Analyzer which shall be continuously monitored for threat intelligence (threat detection and alarming). 27. Whether the Licensee strictly use d secure Virtual Private Network (with IPSec or SSL) when accessing the systems remotely. 28. Whether the Licensee map and analyze organizational communication and data flows for possible",
+        "type": "Table"
+    },
+    {
+        "element_id": "546a26011e91e9c05487850daf6f5a7c",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Page 5 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "ff21e2404df39a313c41ad7cfd9e0095",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 17
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "5d262d3b6c500d089005fd90ae9626bd",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "fa25b34f6a59cfc90ab2ab5b292159c6",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "e91fde9ec664ca0c98ad3103671f8d06",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18,
+            "parent_id": "fa25b34f6a59cfc90ab2ab5b292159c6",
+            "text_as_html": "<table><thead><tr><th></th><th>security threats.</th><th></th></tr></thead><tbody><tr><td>29 29.</td><td>Whether the</td><td>Licensee has deployed Mutually Agreed Norms for Routing Security (MANRS).</td></tr><tr><td>30 30.</td><td>Whether the OTP) and core system to</td><td>Licensee has made provisions to securely authenticate users (2 Factor Authentication/ provide encrypted access (IPSec/SSL) to Value Added Service Provider/Third Party into the avoid any security risk.</td></tr><tr><td>31 31.</td><td colspan=\"2\">Whether the Licensee has (@) Performed Penetration testing of Critical infrastructure regularly. (i) Identified the status of equipment by performing vulnerability assessment. (iii) Implemented standard security configuration policy on Switches &amp; Routers. (iv) Isolated and segregated (VLAN) the networks based on needs.</td></tr><tr><td>32 32.</td><td>Whether the other forms of</td><td>Licensee routinely assess their suppliers/third-party partners using audits, test results, or evaluations to confirm they are meeting their contractual security obligations.</td></tr><tr><td>33 33.</td><td>Whether the WPA-2/3. WPA-2/3.</td><td>Licensee has implemented Wireless Local Area Network (WLAN) security standards like</td></tr><tr><td>34 34.</td><td>Whether the (@) (i) (iii) (iv) ()</td><td>Licensee has Network Firewall and following has been implemented: Firewall protecting their internal network and devices against unauthorized access. Each rule set on the firewall approved by an authorized individual and documented including an explanation of the business need of this rule. Unapproved or vulnerable services blocked at the gateway firewall. Any permissive firewall rules that are no longer required disabled as soon as possible. The firewall\u2019s boundary administration settings not accessible from the internet.</td></tr><tr><td>35, 35.</td><td>For secure (i)</td><td>Network, Whether the licensee has adopted following security measures: All unnecessary user accounts, guest or admin accounts removed or disabled.</td></tr></tbody></table>"
+        },
+        "text": "security threats. 29. Whether the Licensee has deploy ed Mutually Agreed Norms for Routing Security (MANRS). 30. Whether the Licensee has made provisions to securely authenticate users (2 Factor Authentication/ OTP) and provide encrypted access (IPSec/SSL) to Value Added Service Provider/Third Party into the core system to avoid any security risk. 31. Whether the Licensee has (i) Performed Penetration testing of Critical infrastructure regularly. (ii) Identified the status of equipment by performing vulnerability assessment. (iii) Implemented standard security configuration policy on Switches & Routers. (iv) Isolated and segregated (VLAN) the networks based on needs. 32. Whether the Licensee routinely assess their suppliers/third-party partners using audits, test results, or other forms of evaluations to confirm they are meeting their contractual security obligations. 33. Whether the Licensee has implemented Wireless Local Area Network (WLAN) security standards like WPA-2/3. 34. Whether the Licensee has Network Firewall and following has been implemented: (i) Firewall protecting their internal network and devices against unauthorized access. (ii) Each rule set on the firewall approved by an authorized individual and documented including an explanation of the business need of this rule. (iii) Unapproved or vulnerable services blocked at the gateway firewall. (iv) Any permissive firewall rules that are no longer required disabled as soon as possible. (v) The firewall\u2019s boundary administration settings not accessible from the internet. 35. For secure Network, Whether the licensee has adopted following security measures: (i) All unnecessary user accounts, guest or admin accounts removed or disabled.",
+        "type": "Table"
+    },
+    {
+        "element_id": "06527cdcb282e819b664244ce84b466f",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "Page 6 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "7edcec23f505d181946673da64e2d2d1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 18
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "3374fe058bc92d9abb3797704d18fa73",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "fe949ea9b2317c5e4f6041279ada6d9a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "1a7c7925dbe31e2682c45be8d61f3881",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19,
+            "parent_id": "fe949ea9b2317c5e4f6041279ada6d9a",
+            "text_as_html": "<table><thead><tr><th></th><th>(ii)</th><th>All network infrastructure configurations automatically backed up.</th></tr><tr><th></th><th>(iii) (iv)</th><th>All auto-run and unused features disabled. Rogue Endpoints isolated.</th></tr></thead><tbody><tr><td>36 36.</td><td>Whether the infrastructure</td><td>Licensee has implemented of minimum set of configurations for hardening network and identified in different standards like CIS, ISO, SANS, COBIT etc.</td></tr><tr><td colspan=\"3\">Chapter-4, Provisions Relating to Core System Security</td></tr><tr><td>37, 37.</td><td>Whether the form of</td><td>Licensee has used Next Generation Firewall to protect Core Service System from any vulnerability and attack and shall restrict access to default login.</td></tr><tr><td>38 38.</td><td>Whether the define</td><td>Licensee has frequently revisited and updated firewall policy, close unnecessary ports, max-failed-tries-within-time-limit for saving from Brute-force attack on Remote-access ports.</td></tr><tr><td>39 39.</td><td>Whether the</td><td>Licensee has provisions for IP block listing/allow listing, Port-Knocking based on needs.</td></tr><tr><td>40 40.</td><td>Whether the to protect the</td><td>Licensee has its public facing systems and services in public Demilitarized Zone (DMZ) hosts most vulnerable to attack.</td></tr><tr><td>41 41.</td><td>Whether the domain</td><td>system clocks of all information processing system within the organization or security synchronized with an NTP Server with time zone Nepal Standard Time (GMT+5:45).</td></tr><tr><td>42 42.</td><td>Whether the</td><td>Licensee has used DNSSEC in their authoritative DNS Server.</td></tr><tr><td>43 43.</td><td>Whether the DHCP server</td><td>Licensee has adopted best security practices for proper configurations in mail server, etc.</td></tr><tr><td>44 44.</td><td>Whether the (i)</td><td>Licensee comply following provisions related to log records: Store Critical System logs such as user\u2019s activity logs (e.g. log in/out time, login period, access logs, functions performed etc.) and System/Applications event and error</td></tr></tbody></table>"
+        },
+        "text": "(ii) All network infrastructure configurations automatically backed up. (iii) All auto-run and unused features disabled. (iv) Rogue Endpoints isolated. 36. Whether the Licensee has implemented of minimum set of configurations for hardening network and infrastructure identified in different standards like CIS, ISO, SANS, COBIT etc. Chapter-4, Provisions Relating to Core System Security 37. Whether the Licensee has used Next Generation Firewall to protect Core Service System from any form of vulnerability and attack and shall restrict access to default login. 38. Whether the Licensee has frequently revisited and updated firewall policy, close unnecessary ports, define max-failed-tries-within-time-limit for saving from Brute-force attack on Remote-access ports. 39. Whether the Licensee has provisions for IP block listing/allow listing, Port -Knocking based on needs. 40. Whether the Licensee has its public facing systems and services in public Demilitarized Zone (DMZ) to protect the hosts most vulnerable to attack. 41. Whether the system clocks of all information processing system within the organization or security domain synchronized with an NTP Server with time zone Nepal Standard Time (GMT+5:45). 42. Whether the Licensee has used DNSSEC in their authoritative DNS Server. 43. Whether the Licensee has adopt ed best security practices for proper configurations in mail server, DHCP server etc. 44. Whether the Licensee comply following provisions related to log records: (i) Store Critical System logs such as user\u2019s activity logs (e.g. log in/out time, login period, access logs, functions performed etc.) and System/Applications event and error",
+        "type": "Table"
+    },
+    {
+        "element_id": "5fc2ad2af1fe852c1a14756ca511b479",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19
+        },
+        "text": "Page 7 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "09031b403e494b3697d0beaa4f63d946",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 19
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "845d9f6920fc35b0c237b384ebe7336d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "080c395507828169efe2a8ef3db887bc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "d4015438f580f05af4afa93bccaa9baf",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "parent_id": "080c395507828169efe2a8ef3db887bc",
+            "text_as_html": "<table><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td>45, 45.</td></tr><tr><td>46 46.</td></tr><tr><td>47 47.</td></tr><tr><td>48 48.</td></tr><tr><td>49 49.</td></tr></tbody></table>"
+        },
+        "text": "logs. (ii) All security related logs retained for at least six months and Internet NAT logs shall be retained for at least three months or as per the directives issued by NTA. (iii) Logged activities reviewed and analysed on regular basis. (iv) Logging facility and log information well protected against tampering and unauthorized access. Chapter-5, Provisions Relating to Application Security 45. Whether the Licensee has adopted secure software development methodology when developing any software so that security requirements like Capability Maturity Model Integration (CMMI), Open Web Application Security Project (OWASP), Centre for Internet Security (CIS), SANS Institute, Microsoft threat modeling etc. and complied from an early stage. 46. Whether the Licensee has used OTP (One Time Password) or other form of authentication (2-Factor Authentication and Non-Trivial Password Policy) in Mobile Based Applications (Mobile Apps) to avoid any identity theft attacks. 47. Whether the Licensee has used applications and software which must be licensed by respective application and software providers. 48. Whether the Licensee has used SSL (Secure Socket Layer) /TLS (Transport Layer Security) in their web applications/portals. 49. Whether the web or mobile applications implemented by Licensee are thoroughly tested for security vulnerabilities. Chapter-6, Provisions Relating to Data Security/Privacy",
+        "type": "Table"
+    },
+    {
+        "element_id": "41e37cff67658a5fda7202d575d024c1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "parent_id": "080c395507828169efe2a8ef3db887bc"
+        },
+        "text": "50.",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "239be002bba64caeb5a0e3e96fa3b271",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "parent_id": "080c395507828169efe2a8ef3db887bc"
+        },
+        "text": "Whether the Licensee apply encryption techniques for data in transit.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f65e2e056182c2800fcdd8db1d028f04",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20,
+            "parent_id": "080c395507828169efe2a8ef3db887bc"
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "308e9327890f3627d2e7eef50811367a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 20
+        },
+        "text": "Page 8 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "f57a6057582cf6da2ba4bdada1ac1e09",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "c51288e8daeaf0a7820adf67e7c71756",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "4f70362ea014b124f78a6675bcf9a1a5",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "c51288e8daeaf0a7820adf67e7c71756",
+            "text_as_html": "<table><tbody><tr><td>51 51.</td><td>Whether the Licensee has adopted data masking or anonymizing techniques or encryption for customer data at rest. Licensee shall use Hash/Encryption to store sensitive data.</td></tr><tr><td>52, 52.</td><td>(i) Whether the Licensee has Non-Disclosure Agreement with employee, vendor or any other third party for prohibition of copying, reproducing, distributing or selling of licensee\u2019s digital data without the consent of licensee. (ii) The customer\u2019s digital data not shared to vendor or any other third party without the consent of the customer, except in the case of Government Law Enforcement Agencies</td></tr><tr><td colspan=\"2\">Chapter-7, Provisions Relating to Information System (IS) Audit</td></tr><tr><td>53, 53.</td><td>Whether the Licensee has internal security audit team for regular network / System / Critical infrastructure audit and submit the security audit report to the authority in every six (6) months.</td></tr><tr><td>54, 54.</td><td>Whether the Licensee has performed penetration testing and vulnerability assessment in every three (3) months and performs required rectifications.</td></tr><tr><td>55 55.</td><td>Whether the Licensee has performed Information System (IS) audit annually to verify compliance as per the clauses of this Byelaw from NTA or the Government of Nepal designated IS Auditor(s).</td></tr><tr><td>56, 56.</td><td>Whether the Licensee has rectified the vulnerabilities and gaps identified by the IS Auditors in their audit reports at the soonest.</td></tr><tr><td colspan=\"2\">Chapter-8, Provisions Relating to Cloud Security</td></tr><tr><td>57 57.</td><td>Whether the licensee has adopted following cloud security related measures when they are providing cloud services.</td></tr></tbody></table>"
+        },
+        "text": "51. Whether the Licensee has adopted data masking or anonymizing techniques or encryption for customer data at rest. Licensee shall use Hash/Encryption to store sensitive data. 52. (i) Whether the Licensee has Non -Disclosure Agreement with employee, vendor or any other third party for prohibition of copying, reproducing, distributing or selling of licensee\u2019s digital data without the consent of licensee. (ii) The customer\u2019s digital data not shared to vendor or any other third party without the consent of the customer, except in the case of Government Law Enforcement Agencies Chapter-7, Provisions Relating to Information System (IS) Audit 53. Whether the Licensee has internal security audit team for regular network / System / Critical infrastructure audit and submit the security audit report to the authority in every six (6) months. 54. Whether the Licensee has performed penetration testing and vulnerability assessment in every three (3) months and performs required rectifications. 55. Whether the Licensee has performed Information System (IS) audit annually to verify compliance as per the clauses of this Byelaw from NTA or the Government of Nepal designated IS Auditor(s). 56. Whether the Licensee has rectified the vulnerabilities and gaps identified by the IS Auditors in their audit reports at the soonest. Chapter-8, Provisions Relating to Cloud Security 57. Whether the licensee has adopt ed following cloud security related measures when they are providing cloud services.",
+        "type": "Table"
+    },
+    {
+        "element_id": "883481662c443a915af3a8edcd16f0fc",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "c51288e8daeaf0a7820adf67e7c71756"
+        },
+        "text": "(i) Cloud control matrix and zero trust policy (cloud) defined.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "e2680190a6f58db5c494fa16b4b0be5e",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21,
+            "parent_id": "c51288e8daeaf0a7820adf67e7c71756"
+        },
+        "text": "(ii) Cloud Service provider have SLA (Service Level Agreement) and NDA (non-disclosure",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "56c4e11a05e31efb8d34faf39e00f6a2",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21
+        },
+        "text": "Page 9 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "5223f824e4d198e378ed958c7f02daad",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 21
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "32457410c9dd841b1532580b6dd6d26b",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "3e1c796a3dbff14beb2bfe8491d237ea",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "parent_id": "32457410c9dd841b1532580b6dd6d26b",
+            "text_as_html": "<table><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td>58, 58.</td></tr><tr><td>59, 59.</td></tr><tr><td>60 60.</td></tr><tr><td>61 61.</td></tr><tr><td>62 62.</td></tr><tr><td>63 63.</td></tr></tbody></table>"
+        },
+        "text": "agreement) with its client. (iii) IAM (Identity and Access Management) used to ensure that it can be configured who is who, who is authenticated, and what devices, applications, or data they can access. (iv) Cloud service audited annually by Cloud Auditor(s) designated by NTA or the Government of Nepal. Chapter-9, Provisions Relating to CERT/Incident Response 58. Whether the Licensee has formed Incident Response team/CERT. 59. Whether the Licensee has its approved emergency incident response plans and measures, including communication plans, to handle incidents. 60. Whether the Licensee has coordinated and worked in close cooperation with the task-force of NTA in case of security incidents to minimize the loss and identify the source of attack or threat. 61. Whether the licensee has sent any suggestions or advices related to ICT Security issues to NTA 62. Whether the Licensee has complied with the ICT Security related directives of NTA. 63. Whether the Licensee has use d the Information Sharing Platform provided by NTA for incidents, threats and possible remedies.",
+        "type": "Table"
+    },
+    {
+        "element_id": "398d1374a0e85431575d11cd2a130737",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "9b9b885d2bd3f4e3b90fa1647a25397a",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22,
+            "parent_id": "398d1374a0e85431575d11cd2a130737"
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "90e9d1610100af8fc300e86469bfdb0d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 22
+        },
+        "text": "Page 10 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "8f4b8dd63aaa102056cb6b40d5af3704",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "969ad22122c3ca9ee2f4ed3d1b98cce9",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "c39bd53fa6b3f0a635fff47450ee9134",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23,
+            "parent_id": "969ad22122c3ca9ee2f4ed3d1b98cce9",
+            "text_as_html": "<table><thead><tr><th colspan=\"2\">Chapter- 10, Provisions Relating to Security Operations Centre (SOC)</th></tr><tr><th>64 64.</th><th>Whether the Licensee has dedicated in-house Security Unit/Operation Centre with adequate number of security professionals.</th></tr></thead><tbody><tr><td>65, 65.</td><td>Whether the all the security alerts and events must be logged and monitored 24x7 to avoid any severe impact on the service and business by Security Unit/Operation Centre of the Licensee.</td></tr><tr><td>66 66.</td><td>Whether the Licensee has systems like Security Information and Event Management (SIEM) for handling of security events and logs that are generated by multiple systems.</td></tr><tr><td>67, 67.</td><td>Whether the Security Unit\n Unit of the Licensees take all the possible preventive measure based on security logs and events to avoid attacks.</td></tr><tr><td colspan=\"2\">68 Whether the Licensee has created knowledge based database of detected threats and malware information. Chapter-11, Provisions Relating to Cyber Security Awareness &amp; Capacity Building 68.</td></tr><tr><td>69 69.</td><td>Whether the Licensee has conducted security awareness programs for its employees and relevant stakeholders.</td></tr><tr><td>70, 70.</td><td>Whether the Licensee has designed and executed capacity building program related to cyber security to enhance employee\u2019s security skills.</td></tr><tr><td>71 71.</td><td>Whether the Licensee has made necessary arrangements to raise awareness and understanding of threats and support consumers in protecting themselves and their networks as follows: (i) Awareness through websites/portals for practicing safe online behavior. (ii) Collaboration with other entities/organizations for awareness and education. to educate (iii) Conducting workshop/seminars/training/interaction programs customers/users on ICT security related mattes e.g. the importance of use of licensed programs \n to</td></tr></tbody></table>"
+        },
+        "text": "Chapter- 10, Provisions Relating to Security Operations Centre (SOC) 64. Whether the Licensee has dedicated in-house Security Unit/Operation Centre with adequate number of security professionals. 65. Whether the a ll the security alerts and events must be logged and monitored 24x7 to avoid any severe impact on the service and business by Security Unit/Operation Centre of the Licensee. 66. Whether the Licensee has systems like Security Information and Event Management (SIEM) for handling of security events and logs that are generated by multiple systems. 67. Whether the Security Unit of the Licensees take all the possible preventive measure based on security logs and events to avoid attacks. 68. Whether the Licensee has created knowledge based database of detected threats and malware information. Chapter-11, Provisions Relating to Cyber Security Awareness & Capacity Building 69. Whether the Licensee has conduct ed security awareness programs for its employees and relevant stakeholders. 70. Whether the Licensee has designed and executed capacity building program related to cyber security to enhance employee\u2019s security skills. 71. Whether the Licensee has made necessary arrangements to raise awareness and understanding of threats and support consumers in protecting themselves and their networks as follows: (i) Awareness through websites/portals for practicing safe online behavior. (ii) Collaboration with other entities/organizations for awareness and education. (iii) Conducting workshop/seminars/training/interaction programs to educate customers/users on ICT security related mattes e.g. the importance of use of licensed",
+        "type": "Table"
+    },
+    {
+        "element_id": "635a76c491f24122a9f0c869c44b9c57",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23
+        },
+        "text": "Page 11 of 12",
+        "type": "PageNumber"
+    },
+    {
+        "element_id": "81c7986f74b852d4a3872f94566d9068",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 23
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "7eb071f17c45861400710bb3ccce37e6",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24
+        },
+        "text": "IS Audit Checklist as per Cyber Security Byelaw, 2020 Annex-1",
+        "type": "Title"
+    },
+    {
+        "element_id": "a0939b5d0ebbd9f579755b25682e0eb1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "7eb071f17c45861400710bb3ccce37e6",
+            "text_as_html": "<table><thead><tr><th></th><th>software, updating and patching operating systems and applications etc.</th></tr><tr><th></th><th>(iv) Adopting any other methods as appropriate and necessary.</th></tr></thead><tbody><tr><td colspan=\"2\">Chapter-12, Miscellaneous \n Miscellaneous</td></tr><tr><td>72, 72.</td><td>Whether the Licensee has provided any suggestions/advice to NTA to update the Cyber Security Byelaw, 2020.  \n 2020.</td></tr><tr><td>73, 73.</td><td>Whether there has been any disputes in the meaning of the sentence(s), or words and there has been a final decision from NTA and the licensee has complied the same.</td></tr></tbody></table>"
+        },
+        "text": "software, updating and patching operating systems and applications etc. (iv) Adopting any other methods as appropriate and necessary. Chapter-12, Miscellaneous 72. Whether the Licensee has provided any suggestions/advice to NTA to update the Cyber Security Byelaw, 2020. 73. Whether there has been any disputes in the meani ng of the sentence(s), or words and there has been final decision from NTA and the licensee has complied the same. a",
+        "type": "Table"
+    },
+    {
+        "element_id": "6db2320a3ba5b4f02e08bc288142abb1",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24
+        },
+        "text": "Annex-1",
+        "type": "Header"
+    },
+    {
+        "element_id": "26a8c9f936b2ea98f9b7a49925e04e0d",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24,
+            "parent_id": "6db2320a3ba5b4f02e08bc288142abb1"
+        },
+        "text": "Cyber Security Byelaw, 2020",
+        "type": "Title"
+    },
+    {
+        "element_id": "8f627e8284ebbcf852a671fec2c5ac51",
+        "metadata": {
+            "filename": "Cyber-Security-Bylaw-2077-2020.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "page_number": 24
+        },
+        "text": "Page 12 of 12",
+        "type": "PageNumber"
+    }
+]
